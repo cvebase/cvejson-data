@@ -47047,6 +47047,12 @@
     "CVE-2020-8241": [
         "https://github.com/withdk/pulse-secure-vpn-mitm-research"
     ],
+    "CVE-2020-8255": [
+        "https://research.nccgroup.com/2020/10/26/technical-advisory-pulse-connect-secure-arbitrary-file-read-via-logon-message-cve-2020-8255/"
+    ],
+    "CVE-2020-8260": [
+        "https://research.nccgroup.com/2020/10/26/technical-advisory-pulse-connect-secure-rce-via-uncontrolled-gzip-extraction-cve-2020-8260/"
+    ],
     "CVE-2020-8417": [
         "https://github.com/vulncrate/wp-codesnippets-cve-2020-8417",
         "https://github.com/waleweewe12/CVE-2020-8417"
