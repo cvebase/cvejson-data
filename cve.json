@@ -25861,6 +25861,7 @@
         "https://www.exploit-db.com/raw/20033"
     ],
     "CVE-2012-2982": [
+        "https://github.com/OstojaOfficial/CVE-2012-2982",
         "https://github.com/cd6629/CVE-2012-2982-Python-PoC",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/unix/webapp/webmin_show_cgi_exec.rb"
     ],
@@ -35910,7 +35911,15 @@
     "CVE-2017-16995": [
         "https://github.com/Al1ex/CVE-2017-16995",
         "https://github.com/C0dak/CVE-2017-16995",
-        "https://github.com/Lumindu/CVE-2017-16995-Linux-Kernel"
+        "https://github.com/Lumindu/CVE-2017-16995-Linux-Kernel---BPF-Sign-Extension-Local-Privilege-Escalation-",
+        "https://github.com/gugronnier/CVE-2017-16995",
+        "https://github.com/littlebin404/CVE-2017-16995",
+        "https://github.com/senyuuri/cve-2017-16995",
+        "https://github.com/vnik5287/CVE-2017-16995",
+        "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/local/bpf_sign_extension_priv_esc.rb",
+        "https://www.exploit-db.com/raw/44298",
+        "https://www.exploit-db.com/raw/45010",
+        "https://www.exploit-db.com/raw/45058"
     ],
     "CVE-2017-16997": [
         "https://github.com/Xiami2012/CVE-2017-16997-poc"
@@ -37092,7 +37101,9 @@
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/auxiliary/scanner/telnet/satel_cmd_exec.rb"
     ],
     "CVE-2017-6074": [
-        "https://github.com/BimsaraMalinda/Linux-Kernel-4.4.0-Ubuntu"
+        "https://github.com/BimsaraMalinda/Linux-Kernel-4.4.0-Ubuntu---DCCP-Double-Free-Privilege-Escalation-CVE-2017-6074",
+        "https://www.exploit-db.com/raw/41457",
+        "https://www.exploit-db.com/raw/41458"
     ],
     "CVE-2017-6077": [
         "https://www.exploit-db.com/raw/41394"
@@ -37712,7 +37723,8 @@
     "CVE-2017-8295": [
         "https://github.com/alash3al/wp-allowed-hosts",
         "https://github.com/cyberheartmi9/CVE-2017-8295",
-        "https://github.com/homjxi0e/CVE-2017-8295-WordPress-4.7.4"
+        "https://github.com/homjxi0e/CVE-2017-8295-WordPress-4.7.4---Unauthorized-Password-Reset",
+        "https://www.exploit-db.com/raw/41963"
     ],
     "CVE-2017-8311": [
         "https://www.exploit-db.com/raw/44514"
@@ -38314,7 +38326,17 @@
     "CVE-2017-9805": [
         "https://github.com/0x00-0x00/-CVE-2017-9805",
         "https://github.com/0xd3vil/CVE-2017-9805-Exploit",
-        "https://github.com/AvishkaSenadheera20/CVE-2017-9805"
+        "https://github.com/AvishkaSenadheera20/CVE-2017-9805---Documentation---IT19143378",
+        "https://github.com/BeyondCy/S2-052",
+        "https://github.com/Lone-Ranger/apache-struts-pwn_CVE-2017-9805",
+        "https://github.com/UbuntuStrike/CVE-2017-9805-Apache-Struts-Fuzz-N-Sploit",
+        "https://github.com/UbuntuStrike/struts_rest_rce_fuzz-CVE-2017-9805-",
+        "https://github.com/chrisjd20/cve-2017-9805.py",
+        "https://github.com/hahwul/struts2-rce-cve-2017-9805-ruby",
+        "https://github.com/luc10/struts-rce-cve-2017-9805",
+        "https://github.com/mazen160/struts-pwn_CVE-2017-9805",
+        "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/http/struts2_rest_xstream.rb",
+        "https://www.exploit-db.com/raw/42627"
     ],
     "CVE-2017-9810": [
         "https://www.exploit-db.com/raw/42269"
@@ -39116,6 +39138,7 @@
         "https://github.com/Rogdham/CVE-2018-11235",
         "https://github.com/cchang27/CVE-2018-11235-test",
         "https://github.com/jhswartz/CVE-2018-11235",
+        "https://github.com/jongmartinez/CVE-2018-11235-PoC",
         "https://github.com/knqyf263/CVE-2018-11235",
         "https://github.com/makeross/CVE-2018-11235",
         "https://github.com/makeross/CVE-2018-11235_pub",
@@ -39833,7 +39856,7 @@
     ],
     "CVE-2018-14442": [
         "https://github.com/payatu/CVE-2018-14442",
-        "https://github.com/sharmasandeepkr/PS-2018-002"
+        "https://github.com/sharmasandeepkr/PS-2018-002---CVE-2018-14442"
     ],
     "CVE-2018-14493": [
         "https://www.exploit-db.com/raw/45160"
@@ -41168,6 +41191,7 @@
         "https://github.com/Shadowshusky/CVE-2018-2628all",
         "https://github.com/aedoo/CVE-2018-2628-MultiThreading",
         "https://github.com/forlin/CVE-2018-2628",
+        "https://github.com/hawk-520/CVE-2018-2628",
         "https://github.com/hawk-tiger/CVE-2018-2628",
         "https://github.com/jas502n/CVE-2018-2628",
         "https://github.com/jiansiting/weblogic-cve-2018-2628",
@@ -41855,7 +41879,20 @@
         "https://github.com/JulienGadanho/cve-2018-6389-php-patcher",
         "https://github.com/WazeHell/CVE-2018-6389",
         "https://github.com/Zazzzles/Wordpress-DOS",
-        "https://github.com/alessiogilardi/PoC"
+        "https://github.com/alessiogilardi/PoC---CVE-2018-6389",
+        "https://github.com/armaanpathan12345/WP-DOS-Exploit-CVE-2018-6389",
+        "https://github.com/dsfau/wordpress-CVE-2018-6389",
+        "https://github.com/fakedob/tvsz",
+        "https://github.com/heisenberg-official/Wordpress-DOS-Attack-CVE-2018-6389",
+        "https://github.com/ianxtianxt/CVE-2018-6389",
+        "https://github.com/knqyf263/CVE-2018-6389",
+        "https://github.com/m3ssap0/wordpress_cve-2018-6389",
+        "https://github.com/mudhappy/Wordpress-Hack-CVE-2018-6389",
+        "https://github.com/rastating/modsecurity-cve-2018-6389",
+        "https://github.com/s0md3v/Shiva",
+        "https://github.com/thechrono13/PoC---CVE-2018-6389",
+        "https://github.com/yolabingo/wordpress-fix-cve-2018-6389",
+        "https://www.exploit-db.com/raw/43968"
     ],
     "CVE-2018-6391": [
         "https://www.exploit-db.com/raw/43919"
@@ -42103,7 +42140,13 @@
     "CVE-2018-6892": [
         "https://github.com/latortuga71/CVE-2018-6892-Golang",
         "https://github.com/manojcode/-Win10-x64-CloudMe-Sync-1.10.9-Buffer-Overflow-SEH-DEP-Bypass",
-        "https://github.com/manojcode/CloudMe-Sync-1.10.9"
+        "https://github.com/manojcode/CloudMe-Sync-1.10.9---Buffer-Overflow-SEH-DEP-Bypass",
+        "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/misc/cloudme_sync.rb",
+        "https://www.exploit-db.com/raw/44027",
+        "https://www.exploit-db.com/raw/44175",
+        "https://www.exploit-db.com/raw/45197",
+        "https://www.exploit-db.com/raw/46250",
+        "https://www.exploit-db.com/raw/48840"
     ],
     "CVE-2018-6905": [
         "https://github.com/pradeepjairamani/TYPO3-XSS-POC"
@@ -42923,7 +42966,7 @@
         "https://www.exploit-db.com/raw/45269"
     ],
     "CVE-2018-9950": [
-        "https://github.com/sharmasandeepkr/PS-2017-13"
+        "https://github.com/sharmasandeepkr/PS-2017-13---CVE-2018-9950"
     ],
     "CVE-2018-9951": [
         "https://github.com/sharmasandeepkr/cve-2018-9951"
@@ -43790,7 +43833,8 @@
         "https://github.com/oneoy/CVE-2019-13272",
         "https://github.com/polosec/CVE-2019-13272",
         "https://github.com/sumedhaDharmasena/-Kernel-ptrace-c-mishandles-vulnerability-CVE-2019-13272",
-        "https://github.com/teddy47/CVE-2019-13272"
+        "https://github.com/teddy47/CVE-2019-13272---Documentation",
+        "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/local/ptrace_traceme_pkexec_helper.rb"
     ],
     "CVE-2019-13346": [
         "https://www.exploit-db.com/raw/47109"
@@ -44979,7 +45023,9 @@
         "https://github.com/RayScri/CVE-2019-6446"
     ],
     "CVE-2019-6447": [
-        "https://github.com/SandaRuFdo/ES-File-Explorer-Open-Port-Vulnerability"
+        "https://github.com/SandaRuFdo/ES-File-Explorer-Open-Port-Vulnerability---CVE-2019-6447",
+        "https://github.com/fs0c131y/ESFileExplorerOpenPortVuln",
+        "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/auxiliary/scanner/http/es_file_explorer_open_port.rb"
     ],
     "CVE-2019-6453": [
         "https://github.com/andripwn/mIRC-CVE-2019-6453",
@@ -45501,7 +45547,32 @@
         "https://github.com/Ash112121/CVE-2020-0601",
         "https://github.com/BleepSec/CVE-2020-0601",
         "https://github.com/Hans-MartinHannibalLauridsen/CurveBall",
-        "https://github.com/IIICTECH/-CVE-2020-0601-ECC"
+        "https://github.com/IIICTECH/-CVE-2020-0601-ECC---EXPLOIT",
+        "https://github.com/JPurrier/CVE-2020-0601",
+        "https://github.com/MarkusZehnle/CVE-2020-0601",
+        "https://github.com/NishantRanjantech/CVE-2020-0601-spoofkey",
+        "https://github.com/RrUZi/Awesome-CVE-2020-0601",
+        "https://github.com/ShayNehmad/twoplustwo",
+        "https://github.com/SherlockSec/CVE-2020-0601",
+        "https://github.com/YoannDqr/CVE-2020-0601",
+        "https://github.com/aloswoya/CVE-2020-0601",
+        "https://github.com/amlweems/gringotts",
+        "https://github.com/apmunch/CVE-2020-0601",
+        "https://github.com/apodlosky/PoC_CurveBall",
+        "https://github.com/bsides-rijeka/meetup-2-curveball",
+        "https://github.com/david4599/CurveballCertTool",
+        "https://github.com/dlee35/curveball_lua",
+        "https://github.com/eastmountyxz/CVE-2018-20250-WinRAR",
+        "https://github.com/eastmountyxz/CVE-2020-0601-EXP",
+        "https://github.com/gentilkiwi/curveball",
+        "https://github.com/gremwell/cve-2020-0601_poc",
+        "https://github.com/ioncodes/Curveball",
+        "https://github.com/kudelskisecurity/chainoffools",
+        "https://github.com/nissan-sudo/CVE-2020-0601",
+        "https://github.com/ollypwn/CurveBall",
+        "https://github.com/saleemrashid/badecparams",
+        "https://github.com/talbeerysec/CurveBallDetection",
+        "https://github.com/thimelp/cve-2020-0601-Perl"
     ],
     "CVE-2020-0609": [
         "https://github.com/2d4d/rdg_scanner_cve-2020-0609",
@@ -45577,7 +45648,64 @@
         "https://github.com/Almorabea/SMBGhost-LPE-Metasploit-Module",
         "https://github.com/Almorabea/SMBGhost-WorkaroundApplier",
         "https://github.com/Barriuso/SMBGhost_AutomateExploitation",
-        "https://github.com/BinaryShadow94/SMBv3.1.1-scan"
+        "https://github.com/BinaryShadow94/SMBv3.1.1-scan---CVE-2020-0796",
+        "https://github.com/ButrintKomoni/cve-2020-0796",
+        "https://github.com/Dhoomralochana/Scanners-for-CVE-2020-0796-Testing",
+        "https://github.com/DreamoneOnly/CVE-2020-0796-LPE",
+        "https://github.com/GuoKerS/aioScan_CVE-2020-0796",
+        "https://github.com/IAreKyleW00t/SMBGhosts",
+        "https://github.com/LabDookhtegan/CVE-2020-0796-EXP",
+        "https://github.com/Rvn0xsy/CVE_2020_0796_CNA",
+        "https://github.com/T13nn3s/CVE-2020-0796",
+        "https://github.com/TinToSer/CVE-2020-0796-LPE",
+        "https://github.com/UraSecTeam/smbee",
+        "https://github.com/ZecOps/CVE-2020-0796-LPE-POC",
+        "https://github.com/ZecOps/CVE-2020-0796-RCE-POC",
+        "https://github.com/ZecOps/SMBGhost-SMBleed-scanner",
+        "https://github.com/aloswoya/CVE-2020-0796-cobaltstrike-cna",
+        "https://github.com/awareseven/eternalghosttest",
+        "https://github.com/bacth0san96/SMBGhostScanner",
+        "https://github.com/codewithpradhan/SMBGhost-CVE-2020-0796-",
+        "https://github.com/cory-zajicek/CVE-2020-0796-DoS",
+        "https://github.com/danigargu/CVE-2020-0796",
+        "https://github.com/dickens88/cve-2020-0796-scanner",
+        "https://github.com/eastmountyxz/CVE-2020-0796-SMB",
+        "https://github.com/eerykitty/CVE-2020-0796-PoC",
+        "https://github.com/exp-sky/CVE-2020-0796",
+        "https://github.com/f1tz/CVE-2020-0796-LPE-EXP",
+        "https://github.com/gabimarti/SMBScanner",
+        "https://github.com/getdrive/smbghost",
+        "https://github.com/halsten/CVE-2020-0796",
+        "https://github.com/insightglacier/SMBGhost_Crash_Poc",
+        "https://github.com/intelliroot-tech/cve-2020-0796-Scanner",
+        "https://github.com/ioncodes/SMBGhost",
+        "https://github.com/jiansiting/CVE-2020-0796",
+        "https://github.com/jiansiting/CVE-2020-0796-Scanner",
+        "https://github.com/joaozietolie/CVE-2020-0796-Checker",
+        "https://github.com/julixsalas/CVE-2020-0796",
+        "https://github.com/kn6869610/CVE-2020-0796",
+        "https://github.com/laolisafe/CVE-2020-0796",
+        "https://github.com/marcinguy/CVE-2020-0796",
+        "https://github.com/maxpl0it/Unauthenticated-CVE-2020-0796-PoC",
+        "https://github.com/netscylla/SMBGhost",
+        "https://github.com/ollypwn/SMBGhost",
+        "https://github.com/plorinquer/cve-2020-0796",
+        "https://github.com/rsmudge/CVE-2020-0796-BOF",
+        "https://github.com/section-c/CVE-2020-0796",
+        "https://github.com/sujitawake/smbghost",
+        "https://github.com/tango-j/CVE-2020-0796",
+        "https://github.com/technion/DisableSMBCompression",
+        "https://github.com/thelostworldFree/CVE-2020-0796",
+        "https://github.com/tripledd/cve-2020-0796-vuln",
+        "https://github.com/vysecurity/CVE-2020-0796",
+        "https://github.com/w1ld3r/SMBGhost_Scanner",
+        "https://github.com/weidutech/CVE-2020-0796-PoC",
+        "https://github.com/wneessen/SMBCompScan",
+        "https://github.com/wsfengfan/CVE-2020-0796",
+        "https://github.com/xax007/CVE-2020-0796-Scanner",
+        "https://github.com/ysyyrps123/CVE-2020-0796",
+        "https://github.com/ysyyrps123/CVE-2020-0796-exp",
+        "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/local/cve_2020_0796_smbghost.rb"
     ],
     "CVE-2020-0797": [
         "https://github.com/bonesg/CVE-2020-0797"
@@ -46236,6 +46364,7 @@
         "https://github.com/CPO-EH/CVE-2020-16898_Workaround",
         "https://github.com/Gangana3/bad_neighbor",
         "https://github.com/Maliek/CVE-2020-16898_Check",
+        "https://github.com/Passiv-e/CVE-2020-16898",
         "https://github.com/Q1984/CVE-2020-16898",
         "https://github.com/ZephrFish/CVE-2020-16898",
         "https://github.com/advanced-threat-research/CVE-2020-16898",
@@ -46727,6 +46856,12 @@
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-5902.yaml",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/f5_bigip_tmui_rce.rb"
     ],
+    "CVE-2020-5903": [
+        "https://github.com/ltvthang/CVE-2020-5903"
+    ],
+    "CVE-2020-5977": [
+        "https://github.com/CuckooEXE/CVE-2020-5977"
+    ],
     "CVE-2020-6286": [
         "https://github.com/murataydemir/CVE-2020-6286"
     ],
@@ -47036,6 +47171,9 @@
     ],
     "CVE-2020-9332": [
         "https://github.com/Sentinel-One/CVE-2020-9332"
+    ],
+    "CVE-2020-9344": [
+        "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-9344.yaml"
     ],
     "CVE-2020-9375": [
         "https://github.com/thewhiteh4t/cve-2020-9375"
