@@ -45624,6 +45624,7 @@
         "https://github.com/w4fz5uck5/cve-2020-0688-webshell-upload-technique",
         "https://github.com/youncyb/CVE-2020-0688",
         "https://github.com/zcgonvh/CVE-2020-0688",
+        "https://github.com/zyn3rgy/ecp_slap",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/http/exchange_ecp_viewstate.rb"
     ],
     "CVE-2020-0708": [
@@ -46171,6 +46172,7 @@
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-14179.yaml"
     ],
     "CVE-2020-14181": [
+        "https://github.com/Rival420/CVE-2020-14181",
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-14181.yaml",
         "https://twitter.com/ptswarm/status/1318914772918767619"
     ],
@@ -46382,6 +46384,9 @@
     "CVE-2020-16938": [
         "https://github.com/ioncodes/CVE-2020-16938",
         "https://twitter.com/jonasLyk/status/1316104870987010048"
+    ],
+    "CVE-2020-16939": [
+        "https://github.com/rogue-kdc/CVE-2020-16939"
     ],
     "CVE-2020-16947": [
         "https://github.com/0neb1n/CVE-2020-16947"
@@ -47038,6 +47043,9 @@
     ],
     "CVE-2020-8218": [
         "https://github.com/withdk/pulse-gosecure-rce-poc"
+    ],
+    "CVE-2020-8241": [
+        "https://github.com/withdk/pulse-secure-vpn-mitm-research"
     ],
     "CVE-2020-8417": [
         "https://github.com/vulncrate/wp-codesnippets-cve-2020-8417",
