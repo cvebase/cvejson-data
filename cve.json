@@ -45572,14 +45572,16 @@
         "https://github.com/ollypwn/CurveBall",
         "https://github.com/saleemrashid/badecparams",
         "https://github.com/talbeerysec/CurveBallDetection",
-        "https://github.com/thimelp/cve-2020-0601-Perl"
+        "https://github.com/thimelp/cve-2020-0601-Perl",
+        "https://gitlab.com/gavz/curveball"
     ],
     "CVE-2020-0609": [
         "https://github.com/2d4d/rdg_scanner_cve-2020-0609",
         "https://github.com/Bechsen/CVE-2020-0609",
         "https://github.com/MalwareTech/RDGScanner",
         "https://github.com/ioncodes/BlueGate",
-        "https://github.com/ollypwn/BlueGate"
+        "https://github.com/ollypwn/BlueGate",
+        "https://gitlab.com/ind3p3nd3nt/BlueGate"
     ],
     "CVE-2020-0618": [
         "https://github.com/euphrat1ca/CVE-2020-0618",
@@ -45706,6 +45708,11 @@
         "https://github.com/xax007/CVE-2020-0796-Scanner",
         "https://github.com/ysyyrps123/CVE-2020-0796",
         "https://github.com/ysyyrps123/CVE-2020-0796-exp",
+        "https://gitlab.com/darthploit/CVE-2020-0796",
+        "https://gitlab.com/darthploit/CVE-2020-0796-POC",
+        "https://gitlab.com/gavz/CVE-2020-0796",
+        "https://gitlab.com/gavz/CVE-2020-0796-POC",
+        "https://gitlab.com/ran-sama/cve-2020-0796",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/local/cve_2020_0796_smbghost.rb"
     ],
     "CVE-2020-0797": [
@@ -45802,6 +45809,9 @@
     ],
     "CVE-2020-10808": [
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/vestacp_exec.rb"
+    ],
+    "CVE-2020-10816": [
+        "https://gitlab.com/eLeN3Re/CVE-2020-10816"
     ],
     "CVE-2020-10882": [
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/misc/tplink_archer_a7_c7_lan_rce.rb"
@@ -46030,6 +46040,9 @@
     "CVE-2020-13151": [
         "https://github.com/b4ny4n/CVE-2020-13151"
     ],
+    "CVE-2020-13154": [
+        "https://gitlab.com/eLeN3Re/CVE-2020-13154"
+    ],
     "CVE-2020-13158": [
         "https://github.com/InfoSec4Fun/CVE-2020-13158"
     ],
@@ -46085,6 +46098,9 @@
     ],
     "CVE-2020-13424": [
         "https://github.com/mkelepce/CVE-2020-13424"
+    ],
+    "CVE-2020-13437": [
+        "https://gitlab.com/tmpacvn/cve-2020-13437"
     ],
     "CVE-2020-13445": [
         "https://securitylab.github.com/advisories/GHSL-2020-043-liferay_ce"
@@ -46155,6 +46171,9 @@
     ],
     "CVE-2020-13996": [
         "https://github.com/mkelepce/CVE-2020-13996"
+    ],
+    "CVE-2020-14048": [
+        "https://gitlab.com/eLeN3Re/CVE-2020-14048"
     ],
     "CVE-2020-14064": [
         "https://github.com/masoud-zivari/CVE-2020-14064",
@@ -46247,6 +46266,9 @@
         "https://github.com/t31m0/CVE-2020-1472",
         "https://github.com/victim10wq3/CVE-2020-1472",
         "https://github.com/zeronetworks/zerologon",
+        "https://gitlab.com/NdFeB/zer0dump-installer",
+        "https://gitlab.com/darthploit/CVE-2020-1472",
+        "https://gitlab.com/we88c0de/CVE-2020-1472",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/auxiliary/admin/dcerpc/cve_2020_1472_zerologon.rb"
     ],
     "CVE-2020-1493": [
@@ -46441,7 +46463,8 @@
         "https://github.com/w4fz5uck5/CVE-2020-1938-Clean-Version",
         "https://github.com/woaiqiukui/CVE-2020-1938TomcatAjpScanner",
         "https://github.com/xindongzhuaizhuai/CVE-2020-1938",
-        "https://github.com/ze0r/GhostCat-LFI-exp"
+        "https://github.com/ze0r/GhostCat-LFI-exp",
+        "https://gitlab.com/CaptCrypto/ghostscript"
     ],
     "CVE-2020-1947": [
         "https://github.com/5l1v3r1/CVE-2020-1947",
@@ -46926,12 +46949,14 @@
         "https://github.com/FiroSolutions/cve-2020-7247-exploit",
         "https://github.com/r0lh/CVE-2020-7247",
         "https://github.com/superzerosec/cve-2020-7247",
+        "https://gitlab.com/r0lh/CVE-2020-7247",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/unix/smtp/opensmtpd_mail_from_rce.rb"
     ],
     "CVE-2020-7283": [
         "https://github.com/RedyOpsResearchLabs/CVE-2020-7283-McAfee-Total-Protection-MTP-16.0.R26-EoP"
     ],
     "CVE-2020-7350": [
+        "https://gitlab.com/pastaoficial/cve-2020-7350",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/unix/fileformat/metasploit_libnotify_cmd_injection.rb"
     ],
     "CVE-2020-7351": [
@@ -47025,7 +47050,8 @@
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-8163.yaml"
     ],
     "CVE-2020-8165": [
-        "https://github.com/masahiro331/CVE-2020-8165"
+        "https://github.com/masahiro331/CVE-2020-8165",
+        "https://gitlab.com/gonzoyumo/test-rails-cve-2020-8165"
     ],
     "CVE-2020-8191": [
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-8191.yaml"
@@ -47190,7 +47216,8 @@
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-9344.yaml"
     ],
     "CVE-2020-9375": [
-        "https://github.com/thewhiteh4t/cve-2020-9375"
+        "https://github.com/thewhiteh4t/cve-2020-9375",
+        "https://gitlab.com/takertao/cve-2020-9375"
     ],
     "CVE-2020-9376": [
         "https://github.com/renatoalencar/dlink-dir610-exploits"
