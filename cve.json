@@ -46397,6 +46397,9 @@
         "https://gitlab.com/we88c0de/CVE-2020-1472",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/auxiliary/admin/dcerpc/cve_2020_1472_zerologon.rb"
     ],
+    "CVE-2020-14882": [
+        "https://testbnull.medium.com/weblogic-rce-by-only-one-get-request-cve-2020-14882-analysis-6e4b09981dbf"
+    ],
     "CVE-2020-1493": [
         "https://github.com/0neb1n/CVE-2020-1493"
     ],
