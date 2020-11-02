@@ -44262,6 +44262,7 @@
     ],
     "CVE-2019-16113": [
         "https://github.com/Kenun99/CVE-2019-16113-Dockerfile",
+        "https://github.com/Noroh4xy/CVE-2019-16113",
         "https://github.com/bbr-2716057/CVE-2019-16113-PoC",
         "https://github.com/cybervaca/CVE-2019-16113",
         "https://github.com/hg8/CVE-2019-16113-PoC",
@@ -44416,6 +44417,7 @@
     "CVE-2019-17240": [
         "https://github.com/ColdFusionX/CVE-2019-17240-Exploit-Bludit-BF-bypass",
         "https://github.com/LucaReggiannini/Bludit-3-9-2-bb",
+        "https://github.com/Noroh4xy/CVE-2019-17240",
         "https://github.com/persian64/CVE-2019-17240",
         "https://github.com/pingport80/CVE-2019-17240",
         "https://github.com/tripleoctopus/Bludit-CVE-2019-17240-Fork",
@@ -44445,6 +44447,7 @@
     "CVE-2019-17558": [
         "https://github.com/SDNDTeam/CVE-2019-17558_Solr_Vul_Tool",
         "https://github.com/gsheller/Solr_CVE-2019-17558",
+        "https://github.com/hunter-404/Solr-CVE-2019-17558",
         "https://github.com/zhzyker/exphub",
         "https://raw.githubusercontent.com/1N3/Sn1per/master/templates/active/CVE-2019-17558_-_Apache_Solr_RCE.sh",
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2019-17558.yaml",
@@ -45768,6 +45771,7 @@
         "https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/windows/http/ssrs_navcorrector_viewstate.rb",
         "https://github.com/wortell/cve-2020-0618",
         "https://raw.githubusercontent.com/1N3/Sn1per/master/templates/active/CVE-2020-0618_-_Remote_Code_Execution_SQL_Server_Reporting_Services.sh",
+        "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/sql-report-server-probe.yaml",
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/cve-2020-0618.yaml",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/http/ssrs_navcorrector_viewstate.rb"
     ],
@@ -46270,6 +46274,9 @@
         "https://github.com/UrielYochpaz/CVE-2020-13259",
         "https://www.exploit-db.com/raw/48809"
     ],
+    "CVE-2020-13277": [
+        "https://github.com/lyy289065406/CVE-2020-13277"
+    ],
     "CVE-2020-1337": [
         "https://github.com/VoidSec/CVE-2020-1337",
         "https://github.com/math1as/CVE-2020-1337-exploit",
@@ -46476,11 +46483,16 @@
     "CVE-2020-14882": [
         "https://github.com//jas502n//CVE-2020-14882",
         "https://github.com/0thm4n3/cve-2020-14882",
+        "https://github.com/GGyao/CVE-2020-14882",
         "https://github.com/RedTeamWing/CVE-2020-14882",
         "https://github.com/Umarovm/McMaster-University-0-day-Blind-Command-Injection",
+        "https://github.com/alexfrancow/CVE-2020-14882",
         "https://github.com/jas502n/CVE-2020-14882",
+        "https://github.com/ludy-dev/Weblogic_Unauthorized-bypass-RCE",
         "https://github.com/s1kr10s/CVE-2020-14882",
+        "https://github.com/sickwell/CVE-2020-14882",
         "https://github.com/wsfengfan/cve-2020-14882",
+        "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/weblogic-console-rce-probe.yaml",
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-14882.yaml"
     ],
     "CVE-2020-1493": [
@@ -46889,6 +46901,9 @@
     ],
     "CVE-2020-27747": [
         "https://github.com/jet-pentest/CVE-2020-27747"
+    ],
+    "CVE-2020-27976": [
+        "https://github.com/k0rnh0li0/CVE-2020-27976"
     ],
     "CVE-2020-2883": [
         "https://github.com/FancyDoesSecurity/CVE-2020-2883",
