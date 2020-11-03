@@ -46610,6 +46610,9 @@
     "CVE-2020-16875": [
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/http/exchange_ecp_dlp_policy.rb"
     ],
+    "CVE-2020-16889": [
+        "https://github.com/nghiadt1098/MyResearch/blob/main/CVE-2020-16889/poc.cpp"
+    ],
     "CVE-2020-16898": [
         "http://site.pi3.com.pl/exp/p_CVE-2020-16898.py",
         "https://github.com/0xeb-bp/cve-2020-16898",
