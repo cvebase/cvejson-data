@@ -38373,6 +38373,7 @@
         "https://www.exploit-db.com/raw/42453"
     ],
     "CVE-2017-9769": [
+        "https://github.com/kkent030315/CVE-2017-9769",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/local/razer_zwopenprocess.rb",
         "https://www.exploit-db.com/raw/42368"
     ],
@@ -38839,10 +38840,6 @@
         "https://github.com/evict/poc_CVE-2018-1002105",
         "https://github.com/gravitational/cve-2018-1002105",
         "https://github.com/imlzw/Kubernetes-1.12.3-all-auto-install",
-        "https://github.com/koharin/cve-2018-1002105-after",
-        "https://github.com/koharin/cve-2018-1002105-after-patch",
-        "https://github.com/koharin/cve-2018-1002105-before",
-        "https://github.com/koharin/cve-2018-1002105-before-patch",
         "https://github.com/mdnix/cve-2018-1002105",
         "https://gitlab.com/ashleyjohnson/poc_CVE-2018-1002105",
         "https://www.exploit-db.com/raw/46052",
@@ -42052,6 +42049,7 @@
         "https://github.com/Malone5923/CVE-2018-6574-go-get-RCE",
         "https://github.com/No1zy/CVE-2018-6574-PoC",
         "https://github.com/TakuCoder/CVE-2018-6574",
+        "https://github.com/Yashrk078/Test_CVE-2018-6574",
         "https://github.com/acole76/cve-2018-6574",
         "https://github.com/ahmetmanga/cve-2018-6574",
         "https://github.com/ahmetmanga/go-get-rce",
@@ -44416,6 +44414,7 @@
     ],
     "CVE-2019-17240": [
         "https://github.com/ColdFusionX/CVE-2019-17240-Exploit-Bludit-BF-bypass",
+        "https://github.com/ColdFusionX/CVE-2019-17240_Bludit-BF-Bypass",
         "https://github.com/LucaReggiannini/Bludit-3-9-2-bb",
         "https://github.com/Noroh4xy/CVE-2019-17240",
         "https://github.com/persian64/CVE-2019-17240",
@@ -45297,6 +45296,9 @@
     "CVE-2019-7304": [
         "https://github.com/SecuritySi/CVE-2019-7304_DirtySock",
         "https://github.com/initstring/dirty_sock"
+    ],
+    "CVE-2019-7356": [
+        "https://github.com/ngpentest007/CVE-2019-7356"
     ],
     "CVE-2019-7391": [
         "https://www.exploit-db.com/raw/46326"
@@ -46374,6 +46376,9 @@
         "https://github.com/Kamimuka/cve-2020-13933",
         "https://github.com/lyy289065406/CVE-2020-13933"
     ],
+    "CVE-2020-13935": [
+        "https://github.com/RedTeamPentesting/CVE-2020-13935"
+    ],
     "CVE-2020-13996": [
         "https://github.com/mkelepce/CVE-2020-13996"
     ],
@@ -46484,11 +46489,15 @@
         "https://github.com//jas502n//CVE-2020-14882",
         "https://github.com/0thm4n3/cve-2020-14882",
         "https://github.com/GGyao/CVE-2020-14882",
+        "https://github.com/GGyao/CVE-2020-14882_ALL",
+        "https://github.com/GGyao/CVE-2020-14882_POC",
+        "https://github.com/NS-Sp4ce/CVE-2020-14882",
         "https://github.com/RedTeamWing/CVE-2020-14882",
         "https://github.com/Umarovm/McMaster-University-0-day-Blind-Command-Injection",
         "https://github.com/alexfrancow/CVE-2020-14882",
         "https://github.com/jas502n/CVE-2020-14882",
         "https://github.com/ludy-dev/Weblogic_Unauthorized-bypass-RCE",
+        "https://github.com/ovProphet/CVE-2020-14882-checker",
         "https://github.com/s1kr10s/CVE-2020-14882",
         "https://github.com/sickwell/CVE-2020-14882",
         "https://github.com/wsfengfan/cve-2020-14882",
@@ -46722,6 +46731,9 @@
     "CVE-2020-1967": [
         "https://github.com/irsl/CVE-2020-1967"
     ],
+    "CVE-2020-1983": [
+        "https://github.com/wuzuowei/CVE-2020-1983"
+    ],
     "CVE-2020-2034": [
         "https://github.com/blackhatethicalhacking/CVE-2020-2034-POC",
         "https://raw.githubusercontent.com/1N3/Sn1per/master/templates/active/CVE-2020-2034_-_PAN-OS_GlobalProtect_OS_Command_Injection.sh"
@@ -46901,6 +46913,12 @@
     ],
     "CVE-2020-27199": [
         "https://github.com/9lyph/CVE-2020-27199"
+    ],
+    "CVE-2020-27358": [
+        "https://github.com/seb1055/cve-2020-27358-27359"
+    ],
+    "CVE-2020-27359": [
+        "https://github.com/seb1055/cve-2020-27358-27359"
     ],
     "CVE-2020-27747": [
         "https://github.com/jet-pentest/CVE-2020-27747"
