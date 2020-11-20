@@ -920,6 +920,9 @@
     "CVE-2006-0179": [
         "https://www.exploit-db.com/raw/1411"
     ],
+    "CVE-2006-0187": [
+        "https://github.com/j0ndoe/CVE-2006-0187"
+    ],
     "CVE-2006-0295": [
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/browser/firefox_queryinterface.rb"
     ],
@@ -31391,6 +31394,7 @@
     "CVE-2015-6655": [
         "https://www.exploit-db.com/raw/37955"
     ],
+    "CVE-2015-6668": [],
     "CVE-2015-6763": [
         "https://www.exploit-db.com/raw/38763"
     ],
@@ -34807,6 +34811,7 @@
     "CVE-2017-11503": [
         "https://github.com/wizardafric/download"
     ],
+    "CVE-2017-11511": [],
     "CVE-2017-11517": [
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/http/geutebrueck_gcore_x64_rce_bo.rb",
         "https://www.exploit-db.com/raw/41153"
@@ -35062,6 +35067,9 @@
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/apache_couchdb_cmd_exec.rb",
         "https://www.exploit-db.com/raw/44913",
         "https://www.exploit-db.com/raw/45019"
+    ],
+    "CVE-2017-12637": [
+        "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/cve-2017-12637.yaml"
     ],
     "CVE-2017-12718": [
         "https://www.exploit-db.com/raw/43776"
@@ -37574,6 +37582,7 @@
     "CVE-2017-7188": [
         "https://github.com/faizzaidi/Zurmo-Stable-3.1.1-XSS-By-Provensec-LLC"
     ],
+    "CVE-2017-7199": [],
     "CVE-2017-7221": [
         "https://www.exploit-db.com/raw/41928"
     ],
@@ -38286,6 +38295,7 @@
     "CVE-2017-9355": [
         "https://www.exploit-db.com/raw/42119"
     ],
+    "CVE-2017-9362": [],
     "CVE-2017-9412": [
         "https://www.exploit-db.com/raw/42390"
     ],
@@ -38562,6 +38572,7 @@
     ],
     "CVE-2018-0708": [
         "https://github.com/ntkernel0/CVE-2019-0708",
+        "https://gitlab.com/ntkernel/CVE-2019-0708",
         "https://www.exploit-db.com/raw/45015"
     ],
     "CVE-2018-0709": [
@@ -41258,6 +41269,7 @@
         "https://www.exploit-db.com/raw/46552",
         "https://www.exploit-db.com/raw/46756"
     ],
+    "CVE-2018-20253": [],
     "CVE-2018-20323": [
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/mailcleaner_exec.rb"
     ],
@@ -42648,6 +42660,7 @@
     "CVE-2018-8004": [
         "https://github.com/mosesrenegade/CVE-2018-8004"
     ],
+    "CVE-2018-8007": [],
     "CVE-2018-8021": [
         "https://github.com/r3dxpl0it/Apache-Superset-Remote-Code-Execution-PoC-CVE-2018-8021",
         "https://www.exploit-db.com/raw/45933"
@@ -44125,6 +44138,7 @@
     "CVE-2019-14079": [
         "https://github.com/parallelbeings/CVE-2019-14079"
     ],
+    "CVE-2019-1414": [],
     "CVE-2019-14205": [
         "https://github.com/security-kma/EXPLOITING-CVE-2019-14205",
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/wordpress-lfi-cve-2019-14205.yaml"
@@ -44168,7 +44182,8 @@
         "https://github.com/MelroyB/CVE-2019-14319"
     ],
     "CVE-2019-14322": [
-        "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/pallets-werkzeug-path-traversal-cve-2019-14322.yaml"
+        "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/pallets-werkzeug-path-traversal-cve-2019-14322.yaml",
+        "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2019-14322.yaml"
     ],
     "CVE-2019-14326": [
         "https://github.com/seqred-s-a/cve-2019-14326"
@@ -44238,6 +44253,7 @@
         "https://github.com/2yong1/CVE-2019-1477",
         "https://github.com/intellee/CVE-2019-1477"
     ],
+    "CVE-2019-14827": [],
     "CVE-2019-14830": [
         "https://github.com/Fr3d-/moodle-token-stealer"
     ],
@@ -44548,6 +44564,7 @@
     "CVE-2019-17495": [
         "https://github.com/SecT0uch/CVE-2019-17495-test"
     ],
+    "CVE-2019-17501": [],
     "CVE-2019-17525": [
         "https://github.com/huzaifahussain98/CVE-2019-17525"
     ],
@@ -46549,8 +46566,9 @@
         "https://github.com/RedTeamPentesting/CVE-2020-13935"
     ],
     "CVE-2020-13942": [
+        "https://github.com/eugenebmx/CVE-2020-13942",
         "https://github.com/lp008/CVE-2020-13942",
-        "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/eb270c814c5060c17b8124d34abc363cf300c66e/cves/CVE-2020-13942.yaml"
+        "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-13942.yaml"
     ],
     "CVE-2020-13996": [
         "https://github.com/mkelepce/CVE-2020-13996"
@@ -46669,6 +46687,9 @@
         "https://github.com/pprietosanchez/CVE-2020-14750",
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/oracle-weblogic-console-auth-bypass-cve-2020-14750.yaml",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/http/weblogic_admin_handle_rce.rb"
+    ],
+    "CVE-2020-14815": [
+        "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-14815.yaml"
     ],
     "CVE-2020-14864": [
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-14864.yaml"
@@ -46835,6 +46856,7 @@
     ],
     "CVE-2020-16846": [
         "https://github.com/vulhub/vulhub/tree/master/saltstack/CVE-2020-16846",
+        "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-16846.yaml",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/saltstack_salt_api_cmd_exec.rb"
     ],
     "CVE-2020-16875": [
@@ -47694,7 +47716,8 @@
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-8194.yaml"
     ],
     "CVE-2020-8209": [
-        "https://github.com/B1anda0/CVE-2020-8209"
+        "https://github.com/B1anda0/CVE-2020-8209",
+        "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-8209.yaml"
     ],
     "CVE-2020-8218": [
         "https://github.com/withdk/pulse-gosecure-rce-poc"
@@ -47707,6 +47730,9 @@
     ],
     "CVE-2020-8260": [
         "https://research.nccgroup.com/2020/10/26/technical-advisory-pulse-connect-secure-rce-via-uncontrolled-gzip-extraction-cve-2020-8260/"
+    ],
+    "CVE-2020-8277": [
+        "https://github.com/masahiro331/CVE-2020-8277"
     ],
     "CVE-2020-8417": [
         "https://github.com/vulncrate/wp-codesnippets-cve-2020-8417",
