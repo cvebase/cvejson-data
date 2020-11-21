@@ -39492,7 +39492,6 @@
         "https://github.com/tuxotron/cve-2018-11776-docker",
         "https://github.com/xfox64x/CVE-2018-11776",
         "https://gitlab.com/drent/S2-057-CVE-2018-11776",
-        "https://rapidsafeguard.medium.com/cve-2018-11776-apache-struts-vulnerability-ad0f87632f45",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/http/struts2_namespace_ognl.rb",
         "https://www.exploit-db.com/raw/45260",
         "https://www.exploit-db.com/raw/45262",
@@ -46719,6 +46718,8 @@
         "https://github.com/x51/CVE-2020-14882",
         "https://github.com/zhzyker/exphub",
         "https://github.com/zhzyker/vulmap",
+        "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/oracle-weblogic-console-rce-cve-2020-14882.yaml",
+        "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/oracle-weblogic-console-rce-probe-cve-2020-14882.yaml",
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/oracle-weblogic-rce-cve-2020-14882.yaml",
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-14882.yaml",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/http/weblogic_admin_handle_rce.rb"
@@ -47506,6 +47507,7 @@
     "CVE-2020-5977": [
         "https://github.com/CuckooEXE/CVE-2020-5977"
     ],
+    "CVE-2020-5990": [],
     "CVE-2020-6286": [
         "https://github.com/murataydemir/CVE-2020-6286"
     ],
