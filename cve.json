@@ -921,7 +921,7 @@
         "https://www.exploit-db.com/raw/1411"
     ],
     "CVE-2006-0187": [
-        "https://github.com/j0ndoe/CVE-2006-0187"
+        "https://github.com/0xmanjoos/CVE-2006-0187"
     ],
     "CVE-2006-0295": [
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/browser/firefox_queryinterface.rb"
@@ -1589,7 +1589,8 @@
         "https://www.exploit-db.com/raw/1812"
     ],
     "CVE-2006-3392": [
-        "https://github.com/Ziani52/CVE-2006-3392",
+        "https://github.com/0xtz/CVE-2006-3392",
+        "https://github.com/IvanGlinkin/CVE-2006-3392",
         "https://github.com/notclement/cve-2006-3392",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/auxiliary/admin/webmin/file_disclosure.rb"
     ],
@@ -5341,7 +5342,6 @@
     "CVE-2007-1851": [
         "https://www.exploit-db.com/raw/3641"
     ],
-    "CVE-2007-1860": [],
     "CVE-2007-1867": [
         "https://www.exploit-db.com/raw/3648"
     ],
@@ -5801,9 +5801,11 @@
         "https://github.com/JoseBarrios/CVE-2007-2447",
         "https://github.com/Unam3dd/exploit_smb_usermap_script",
         "https://github.com/Unix13/metasploitable2",
+        "https://github.com/WildfootW/CVE-2007-2447_Samba_3.0.25rc3",
         "https://github.com/amriunix/CVE-2007-2447",
         "https://github.com/b1fair/smb_usermap",
         "https://github.com/nickvourd/smb-usermap-destroyer",
+        "https://github.com/xlcc4096/exploit-CVE-2007-2447",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/samba/usermap_script.rb"
     ],
     "CVE-2007-2456": [
@@ -10381,7 +10383,6 @@
     "CVE-2008-1921": [
         "https://www.exploit-db.com/raw/5464"
     ],
-    "CVE-2008-1930": [],
     "CVE-2008-1933": [
         "https://www.exploit-db.com/raw/5489"
     ],
@@ -10800,6 +10801,9 @@
     ],
     "CVE-2008-2396": [
         "https://www.exploit-db.com/raw/5651"
+    ],
+    "CVE-2008-2398": [
+        "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2008-2398.yaml"
     ],
     "CVE-2008-2411": [
         "https://www.exploit-db.com/raw/5576"
@@ -16331,6 +16335,7 @@
     ],
     "CVE-2008-6970": [
         "https://github.com/KyomaHooin/CVE-2008-6970",
+        "https://gitlab.com/KyomaHooin/CVE-2008-6970",
         "https://gitlab.com/KyomaHooin/CVE-2008-6970"
     ],
     "CVE-2008-6971": [
@@ -17082,7 +17087,6 @@
         "https://www.exploit-db.com/raw/7919"
     ],
     "CVE-2009-0473": [
-        "https://github.com/akbarq/CVE-2009-0473",
         "https://github.com/akbarq/CVE-2009-0473-check"
     ],
     "CVE-2009-0476": [
@@ -21859,9 +21863,6 @@
     "CVE-2010-1555": [
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/http/hp_nnm_getnnmdata_hostname.rb"
     ],
-    "CVE-2010-15606": [
-        "https://github.com/Babs84/CVE-2010-15606"
-    ],
     "CVE-2010-1583": [
         "https://www.exploit-db.com/raw/12452"
     ],
@@ -24632,6 +24633,8 @@
         "https://github.com/SECFORCE/CVE-2011-3368",
         "https://github.com/colorblindpentester/CVE-2011-3368",
         "https://gitlab.com/The-Real-TechLord/CVE-2011-3368",
+        "https://gitlab.com/The-Real-TechLord/CVE-2011-3368",
+        "https://gitlab.com/The-Real-TechLord/CVE-2011-3368",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/auxiliary/scanner/http/rewrite_proxy_bypass.rb",
         "https://www.exploit-db.com/raw/17969"
     ],
@@ -24759,6 +24762,8 @@
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/http/hp_mpa_job_acct.rb"
     ],
     "CVE-2011-4313": [
+        "https://gitlab.com/yongchuank/cve-2011-4313-bind9-assertion",
+        "https://gitlab.com/yongchuank/cve-2011-4313-bind9-assertion",
         "https://gitlab.com/yongchuank/cve-2011-4313-bind9-assertion"
     ],
     "CVE-2011-4337": [
@@ -25812,7 +25817,6 @@
     "CVE-2012-2626": [
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/auxiliary/admin/http/scrutinizer_add_user.rb"
     ],
-    "CVE-2012-2661": [],
     "CVE-2012-2686": [
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/auxiliary/dos/ssl/openssl_aesni.rb"
     ],
@@ -26740,6 +26744,8 @@
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/http/rails_xml_yaml_code_exec.rb"
     ],
     "CVE-2013-0176": [
+        "https://gitlab.com/yongchuank/cve-2013-0176-libssh-null-pointer-dereference",
+        "https://gitlab.com/yongchuank/cve-2013-0176-libssh-null-pointer-dereference",
         "https://gitlab.com/yongchuank/cve-2013-0176-libssh-null-pointer-dereference"
     ],
     "CVE-2013-0209": [
@@ -26867,6 +26873,8 @@
         "https://www.exploit-db.com/raw/40893"
     ],
     "CVE-2013-1347": [
+        "https://gitlab.com/yongchuank/cve-2013-1347-msie-cgenericelement-use-after-free",
+        "https://gitlab.com/yongchuank/cve-2013-1347-msie-cgenericelement-use-after-free",
         "https://gitlab.com/yongchuank/cve-2013-1347-msie-cgenericelement-use-after-free",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/browser/ie_cgenericelement_uaf.rb",
         "https://www.exploit-db.com/raw/25294"
@@ -27031,8 +27039,6 @@
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/foreman_openstack_satellite_code_exec.rb",
         "https://www.exploit-db.com/raw/27045"
     ],
-    "CVE-2013-2134": [],
-    "CVE-2013-2135": [],
     "CVE-2013-2143": [
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/auxiliary/admin/http/katello_satellite_priv_esc.rb",
         "https://www.exploit-db.com/raw/32515"
@@ -27051,8 +27057,10 @@
     "CVE-2013-2225": [
         "https://www.exploit-db.com/raw/26530"
     ],
+    "CVE-2013-225": [
+        "https://github.com/ninj4c0d3r/ShellEvil"
+    ],
     "CVE-2013-2251": [
-        "https://github.com/ninj4c0d3r/ShellEvil",
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/apache-struts-rce-cve-2013-2251.yaml",
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2013-2251.yaml",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/http/struts_default_action_mapper.rb"
@@ -28026,11 +28034,12 @@
         "https://github.com/DominikTo/bleed",
         "https://github.com/FiloSottile/Heartbleed",
         "https://github.com/GeeksXtreme/ssl-heartbleed.nse",
-        "https://github.com/GitMirar/heartbleed_exploit",
+        "https://github.com/GuillermoEscobero/heartbleed",
         "https://github.com/Lekensteyn/pacemaker",
         "https://github.com/OffensivePython/HeartLeak",
         "https://github.com/Saymeis/HeartBleed",
         "https://github.com/ThanHuuTuan/Heartexploit",
+        "https://github.com/WildfootW/CVE-2014-0160_OpenSSL_1.0.1f_Heartbleed",
         "https://github.com/Xyl2k/CVE-2014-0160-Chrome-Plugin",
         "https://github.com/a0726h77/heartbleed-test",
         "https://github.com/amerine/coronary",
@@ -28053,7 +28062,6 @@
         "https://github.com/isgroup-srl/openmagic",
         "https://github.com/jdauphant/patch-openssl-CVE-2014-0160",
         "https://github.com/marstornado/cve-2014-0160-Yunfeng-Jiang",
-        "https://github.com/menrcom/CVE-2014-160",
         "https://github.com/mozilla-services/Heartbleed",
         "https://github.com/mpgn/heartbleed-PoC",
         "https://github.com/musalbas/heartbleed-masstest",
@@ -28340,6 +28348,7 @@
         "https://github.com/gabrielg/CVE-2014-1266-poc",
         "https://github.com/landonf/Testability-CVE-2014-1266",
         "https://github.com/linusyang/SSLPatch",
+        "https://gitlab.com/zeroshirts/CVE-2014-1266-poc",
         "https://gitlab.com/zeroshirts/CVE-2014-1266-poc"
     ],
     "CVE-2014-1303": [
@@ -28362,6 +28371,10 @@
     ],
     "CVE-2014-1511": [
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/browser/firefox_webidl_injection.rb"
+    ],
+    "CVE-2014-160": [
+        "https://github.com/GitMirar/heartbleed_exploit",
+        "https://github.com/menrcom/CVE-2014-160"
     ],
     "CVE-2014-1610": [
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/http/mediawiki_thumb.rb",
@@ -28639,6 +28652,7 @@
         "https://github.com/android-rooting-tools/libfutex_exploit",
         "https://github.com/c3c/CVE-2014-3153",
         "https://github.com/dangtunguyen/TowelRoot",
+        "https://github.com/elongl/towelroot",
         "https://github.com/geekben/towelroot",
         "https://github.com/lieanu/CVE-2014-3153",
         "https://github.com/timwr/CVE-2014-3153",
@@ -28829,6 +28843,9 @@
         "https://github.com/johnjohnsp1/CVE-2014-4113",
         "https://github.com/nsxz/Exploit-CVE-2014-4113",
         "https://github.com/sam-b/CVE-2014-4113",
+        "https://github.com/wikiZ/cve-2014-4113",
+        "https://gitlab.com/ahhh/CVE-2014-4113",
+        "https://gitlab.com/ahhh/CVE-2014-4113",
         "https://gitlab.com/ahhh/CVE-2014-4113",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/local/ms14_058_track_popup_menu.rb",
         "https://www.exploit-db.com/raw/35101",
@@ -28868,6 +28885,7 @@
     ],
     "CVE-2014-4210": [
         "https://github.com/0xn0ne/weblogicScanner",
+        "https://github.com/NHPT/WebLogic-SSRF_CVE-2014-4210",
         "https://github.com/NoneNotNull/SSRFX",
         "https://github.com/unmanarc/CVE-2014-4210-SSRF-PORTSCANNER-POC"
     ],
@@ -29158,7 +29176,7 @@
         "https://github.com/Any3ite/CVE-2014-6271",
         "https://github.com/Aruthw/CVE-2014-6271",
         "https://github.com/Dilith006/CVE-2014-6271",
-        "https://github.com/MuirlandOracle/CVE-2014-6271",
+        "https://github.com/MuirlandOracle/CVE-2014-6271-IPFire",
         "https://github.com/P0cL4bs/ShellShock-CGI-Scan",
         "https://github.com/Pilou-Pilou/docker_CVE-2014-6271.",
         "https://github.com/RainMak3r/Rainstorm",
@@ -29209,6 +29227,7 @@
         "https://github.com/wenyu1999/bash-shellshock",
         "https://github.com/woltage/CVE-2014-6271",
         "https://github.com/zalalov/CVE-2014-6271",
+        "https://gitlab.com/glicOne/exploit-CVE-2014-6271",
         "https://gitlab.com/glicOne/exploit-CVE-2014-6271",
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2014-6271.yaml",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/auxiliary/scanner/http/apache_mod_cgi_bash_env.rb",
@@ -29383,6 +29402,8 @@
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/auxiliary/scanner/http/bmc_trackit_passwd_reset.rb"
     ],
     "CVE-2014-8272": [
+        "https://gitlab.com/yongchuank/cve-2014-8272-dell-idrac-ipmi-weak-sessionid",
+        "https://gitlab.com/yongchuank/cve-2014-8272-dell-idrac-ipmi-weak-sessionid",
         "https://gitlab.com/yongchuank/cve-2014-8272-dell-idrac-ipmi-weak-sessionid",
         "https://www.exploit-db.com/raw/35770"
     ],
@@ -29680,8 +29701,16 @@
         "https://github.com/hakatashi/CVE-2014-9390",
         "https://github.com/mdisec/CVE-2014-9390",
         "https://gitlab.com/adityapadhya/cve-2014-9390",
+        "https://gitlab.com/adityapadhya/cve-2014-9390",
+        "https://gitlab.com/adityapadhya/cve-2014-9390",
+        "https://gitlab.com/kraken1889/cve-2014-9390",
+        "https://gitlab.com/kraken1889/cve-2014-9390",
         "https://gitlab.com/kraken1889/cve-2014-9390",
         "https://gitlab.com/mehmet/cve-2014-9390",
+        "https://gitlab.com/mehmet/cve-2014-9390",
+        "https://gitlab.com/mehmet/cve-2014-9390",
+        "https://gitlab.com/zonesnetwork/CVE-2014-9390",
+        "https://gitlab.com/zonesnetwork/CVE-2014-9390",
         "https://gitlab.com/zonesnetwork/CVE-2014-9390",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/http/git_client_command_exec.rb"
     ],
@@ -29849,7 +29878,6 @@
     "CVE-2015-0235": [
         "https://github.com/F88/ghostbusters15",
         "https://github.com/JustDenisYT/ghosttester",
-        "https://github.com/LyricalSecurity/GHOSTCHECK-cve-2015-0235",
         "https://github.com/aaronfay/CVE-2015-0235-test",
         "https://github.com/adherzog/ansible-CVE-2015-0235-GHOST",
         "https://github.com/alanmeyer/CVE-glibc",
@@ -30139,6 +30167,11 @@
         "https://github.com/oguzhantopgul/cve-2015-1538-1",
         "https://github.com/renjithsasidharan/cve-2015-1538-1",
         "https://gitlab.com/HaKDMoDz/cve-2015-1538-1",
+        "https://gitlab.com/HaKDMoDz/cve-2015-1538-1",
+        "https://gitlab.com/HaKDMoDz/cve-2015-1538-1",
+        "https://gitlab.com/kamatchu/cve-2015-1538-1",
+        "https://gitlab.com/kamatchu/cve-2015-1538-1",
+        "https://gitlab.com/kamatchu/cve-2015-1538-1",
         "https://www.exploit-db.com/raw/38124"
     ],
     "CVE-2015-1560": [
@@ -30181,6 +30214,8 @@
         "https://github.com/Cyberclues/rtf_exploit_extractor"
     ],
     "CVE-2015-1642": [
+        "https://gitlab.com/yongchuank/cve-2015-1642-msoffice-ctasksymbol-use-after-free",
+        "https://gitlab.com/yongchuank/cve-2015-1642-msoffice-ctasksymbol-use-after-free",
         "https://gitlab.com/yongchuank/cve-2015-1642-msoffice-ctasksymbol-use-after-free"
     ],
     "CVE-2015-1674": [
@@ -30219,6 +30254,8 @@
         "https://www.exploit-db.com/raw/40881"
     ],
     "CVE-2015-1770": [
+        "https://gitlab.com/yongchuank/cve-2015-1770-msoffice-osfsandbox1-uninitialized-memory-dereference",
+        "https://gitlab.com/yongchuank/cve-2015-1770-msoffice-osfsandbox1-uninitialized-memory-dereference",
         "https://gitlab.com/yongchuank/cve-2015-1770-msoffice-osfsandbox1-uninitialized-memory-dereference"
     ],
     "CVE-2015-1793": [
@@ -30562,6 +30599,7 @@
     "CVE-2015-2794": [
         "https://github.com/styx00/DNN_CVE-2015-2794",
         "https://github.com/wilsc0w/CVE-2015-2794-finder",
+        "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/dotnetnuke-auth-bypass-cve-2015-2794.yaml",
         "https://www.exploit-db.com/raw/39777"
     ],
     "CVE-2015-2797": [
@@ -30792,7 +30830,7 @@
         "https://www.exploit-db.com/raw/37394"
     ],
     "CVE-2015-3456": [
-        "https://github.com/MauroEldritch/venom",
+        "https://github.com/orf53975/poisonfrog",
         "https://github.com/vincentbernat/cve-2015-3456",
         "https://www.exploit-db.com/raw/37053"
     ],
@@ -30934,9 +30972,6 @@
     ],
     "CVE-2015-4153": [
         "https://www.exploit-db.com/raw/37200"
-    ],
-    "CVE-2015-4335": [
-        "https://github.com/EMCELLY/CVE-2015-4335"
     ],
     "CVE-2015-4414": [
         "https://www.exploit-db.com/raw/37274"
@@ -31127,7 +31162,7 @@
         "https://www.exploit-db.com/raw/38832"
     ],
     "CVE-2015-5290": [
-        "https://github.com/skyhighwings/CVE-2015-5290"
+        "https://github.com/sariyamelody/CVE-2015-5290"
     ],
     "CVE-2015-5353": [
         "https://www.exploit-db.com/raw/37439"
@@ -31167,6 +31202,8 @@
         "https://github.com/robertdavidgraham/cve-2015-5477",
         "https://github.com/xycloops123/TKEY-remote-DoS-vulnerability-exploit",
         "https://gitlab.com/saydulk/cve-2015-5477",
+        "https://gitlab.com/saydulk/cve-2015-5477",
+        "https://gitlab.com/saydulk/cve-2015-5477",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/auxiliary/dos/dns/bind_tkey.rb",
         "https://www.exploit-db.com/raw/37721",
         "https://www.exploit-db.com/raw/37723"
@@ -31205,6 +31242,7 @@
     "CVE-2015-5602": [
         "https://github.com/cved-sources/cve-2015-5602",
         "https://github.com/t0kx/privesc-CVE-2015-5602",
+        "https://gitlab.com/Chocolatine/securiteseoc-devoir-1----cve-2015-5602",
         "https://gitlab.com/Chocolatine/securiteseoc-devoir-1----cve-2015-5602",
         "https://www.exploit-db.com/raw/37710"
     ],
@@ -31394,7 +31432,6 @@
     "CVE-2015-6655": [
         "https://www.exploit-db.com/raw/37955"
     ],
-    "CVE-2015-6668": [],
     "CVE-2015-6763": [
         "https://www.exploit-db.com/raw/38763"
     ],
@@ -31687,6 +31724,7 @@
         "https://www.exploit-db.com/raw/40840"
     ],
     "CVE-2015-7857": [
+        "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/unix/webapp/joomla_contenthistory_sqli_rce.rb",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/unix/webapp/joomla_contenthistory_sqli_rce.rb",
         "https://www.exploit-db.com/raw/38797"
     ],
@@ -31989,6 +32027,8 @@
         "https://github.com/hexx0r/CVE-2016-0051",
         "https://github.com/koczkatamas/CVE-2016-0051",
         "https://gitlab.com/agowa338/CVE-2016-0051",
+        "https://gitlab.com/agowa338/CVE-2016-0051",
+        "https://gitlab.com/agowa338/CVE-2016-0051",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/local/ms16_016_webdav.rb",
         "https://www.exploit-db.com/raw/39432",
         "https://www.exploit-db.com/raw/39788",
@@ -32255,7 +32295,6 @@
         "https://github.com/opsxcq/exploit-CVE-2016-10033",
         "https://github.com/pedro823/cve-2016-10033-45",
         "https://github.com/qwertyuiop12138/CVE-2016-10033",
-        "https://github.com/zi0Black/CVE-2016-010033-010045",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/http/phpmailer_arg_injection.rb",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/unix/webapp/wp_phpmailer_host_header.rb",
         "https://www.exploit-db.com/raw/40968",
@@ -32281,7 +32320,6 @@
         "https://www.exploit-db.com/raw/41179"
     ],
     "CVE-2016-10045": [
-        "https://github.com/zi0Black/CVE-2016-010033-010045",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/http/phpmailer_arg_injection.rb",
         "https://www.exploit-db.com/raw/40969",
         "https://www.exploit-db.com/raw/40986",
@@ -32606,8 +32644,6 @@
     "CVE-2016-1885": [
         "https://www.exploit-db.com/raw/39570"
     ],
-    "CVE-2016-1897": [],
-    "CVE-2016-1898": [],
     "CVE-2016-1909": [
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/auxiliary/scanner/ssh/fortinet_backdoor.rb",
         "https://www.exploit-db.com/raw/39224"
@@ -32650,6 +32686,8 @@
         "https://github.com/danielhemmati/CVE-2016-2098-my-first-exploit",
         "https://github.com/hderms/dh-CVE_2016_2098",
         "https://github.com/its-arun/CVE-2016-2098",
+        "https://gitlab.com/fuxsocy.py/cve-2016-2098",
+        "https://gitlab.com/fuxsocy.py/cve-2016-2098",
         "https://gitlab.com/fuxsocy.py/cve-2016-2098",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/http/rails_actionpack_inline_exec.rb",
         "https://www.exploit-db.com/raw/40086"
@@ -32761,6 +32799,7 @@
     ],
     "CVE-2016-2569": [
         "https://github.com/amit-raut/CVE-2016-2569",
+        "https://gitlab.com/amit-raut/CVE-2016-2569",
         "https://gitlab.com/amit-raut/CVE-2016-2569"
     ],
     "CVE-2016-2776": [
@@ -32956,6 +32995,8 @@
         "https://github.com/jpeanut/ImageTragick-CVE-2016-3714-RShell",
         "https://github.com/tommiionfire/CVE-2016-3714",
         "https://gitlab.com/ahhh/CVE-2016-3714",
+        "https://gitlab.com/ahhh/CVE-2016-3714",
+        "https://gitlab.com/ahhh/CVE-2016-3714",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/unix/fileformat/imagemagick_delegate.rb",
         "https://www.exploit-db.com/raw/39767",
         "https://www.exploit-db.com/raw/39791"
@@ -33036,6 +33077,8 @@
     "CVE-2016-4117": [
         "https://github.com/amit-raut/CVE-2016-4117-Report",
         "https://github.com/hybridious/CVE-2016-4117",
+        "https://gitlab.com/amit-raut/CVE-2016-4117-Report",
+        "https://gitlab.com/amit-raut/CVE-2016-4117-Report",
         "https://gitlab.com/amit-raut/CVE-2016-4117-Report",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/osx/browser/adobe_flash_delete_range_tl_op.rb",
         "https://www.exploit-db.com/raw/46339"
@@ -33235,6 +33278,7 @@
         "https://github.com/gitcollect/CVE-2016-4971",
         "https://github.com/mbadanoiu/CVE-2016-4971",
         "https://gitlab.com/junquera/cve-2016-4971",
+        "https://gitlab.com/junquera/cve-2016-4971",
         "https://www.exploit-db.com/raw/40064"
     ],
     "CVE-2016-4977": [
@@ -33286,6 +33330,7 @@
         "https://github.com/xlucas/dirtycow.cr",
         "https://github.com/xpcmdshell/derpyc0w",
         "https://gitlab.com/nu11secur1ty/Protect-CVE-2016-5195-DirtyCow",
+        "https://gitlab.com/nu11secur1ty/Protect-CVE-2016-5195-DirtyCow",
         "https://www.exploit-db.com/raw/40611",
         "https://www.exploit-db.com/raw/40616",
         "https://www.exploit-db.com/raw/40839",
@@ -33318,8 +33363,6 @@
     "CVE-2016-5348": [
         "https://www.exploit-db.com/raw/40502"
     ],
-    "CVE-2016-5385": [],
-    "CVE-2016-5386": [],
     "CVE-2016-5399": [
         "https://www.exploit-db.com/raw/40155"
     ],
@@ -33330,7 +33373,7 @@
         "https://www.exploit-db.com/raw/40588"
     ],
     "CVE-2016-5636": [
-        "https://github.com/jakkdu/CVE-2016-5636"
+        "https://github.com/insuyun/CVE-2016-5636"
     ],
     "CVE-2016-5639": [
         "https://github.com/xfox64x/CVE-2016-5639",
@@ -33426,6 +33469,8 @@
     "CVE-2016-6210": [
         "https://github.com/justlce/CVE-2016-6210-Exploit",
         "https://gitlab.com/kar0nt3/ssh-users-enumeration-by-cve-2016-6210",
+        "https://gitlab.com/kar0nt3/ssh-users-enumeration-by-cve-2016-6210",
+        "https://gitlab.com/kar0nt3/ssh-users-enumeration-by-cve-2016-6210",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/auxiliary/scanner/ssh/ssh_enumusers.rb",
         "https://www.exploit-db.com/raw/40113",
         "https://www.exploit-db.com/raw/40136"
@@ -33463,6 +33508,7 @@
     ],
     "CVE-2016-6366": [
         "https://github.com/RiskSense-Ops/CVE-2016-6366",
+        "https://gitlab.com/daedalus1/CVE-2016-6366",
         "https://gitlab.com/daedalus1/CVE-2016-6366",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/auxiliary/admin/networking/cisco_asa_extrabacon.rb",
         "https://www.exploit-db.com/raw/40258"
@@ -33856,6 +33902,8 @@
     ],
     "CVE-2016-8610": [
         "https://github.com/cujanovic/CVE-2016-8610-PoC",
+        "https://gitlab.com/drent/CVE-2016-8610-PoC",
+        "https://gitlab.com/drent/CVE-2016-8610-PoC",
         "https://gitlab.com/drent/CVE-2016-8610-PoC"
     ],
     "CVE-2016-8636": [
@@ -33948,7 +33996,6 @@
         "https://www.exploit-db.com/raw/41151",
         "https://www.exploit-db.com/raw/42327"
     ],
-    "CVE-2016-9086": [],
     "CVE-2016-9091": [
         "https://www.exploit-db.com/raw/41785",
         "https://www.exploit-db.com/raw/41786"
@@ -34276,6 +34323,9 @@
         "https://github.com/viethdgit/CVE-2017-0199",
         "https://github.com/zakybstrd21215/PoC-CVE-2017-0199",
         "https://gitlab.com/530tatted530/CVE-2017-0199",
+        "https://gitlab.com/530tatted530/CVE-2017-0199",
+        "https://gitlab.com/530tatted530/CVE-2017-0199",
+        "https://gitlab.com/Djangoat/cve-2017-0199-py-kit",
         "https://gitlab.com/Djangoat/cve-2017-0199-py-kit",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/fileformat/office_word_hta.rb",
         "https://www.exploit-db.com/raw/41894",
@@ -34419,6 +34469,8 @@
         "https://github.com/ojasookert/CVE-2017-0785",
         "https://github.com/pieterbork/blueborne",
         "https://github.com/sigbitsadmin/diff",
+        "https://gitlab.com/daedalus1/CVE-2017-0785",
+        "https://gitlab.com/daedalus1/CVE-2017-0785",
         "https://gitlab.com/daedalus1/CVE-2017-0785"
     ],
     "CVE-2017-0806": [
@@ -34429,6 +34481,9 @@
     ],
     "CVE-2017-0901": [
         "https://www.exploit-db.com/raw/42611"
+    ],
+    "CVE-2017-0929": [
+        "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/dotnetnuke-imagehandler-ssrf-cve-2017-0929.yaml"
     ],
     "CVE-2017-1000000": [
         "https://github.com/smythtech/DWF-CVE-2017-1000000"
@@ -34491,6 +34546,9 @@
         "https://github.com/own2pwn/blueborne-CVE-2017-1000251-POC",
         "https://github.com/tlatkdgus1/blueborne-CVE-2017-1000251",
         "https://gitlab.com/daedalus1/Blueborne-CVE-2017-1000251",
+        "https://gitlab.com/daedalus1/Blueborne-CVE-2017-1000251",
+        "https://gitlab.com/daedalus1/Blueborne-CVE-2017-1000251",
+        "https://gitlab.com/neville133/blueborne-CVE-2017-1000251",
         "https://gitlab.com/neville133/blueborne-CVE-2017-1000251",
         "https://www.exploit-db.com/raw/42762"
     ],
@@ -34811,7 +34869,6 @@
     "CVE-2017-11503": [
         "https://github.com/wizardafric/download"
     ],
-    "CVE-2017-11511": [],
     "CVE-2017-11517": [
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/http/geutebrueck_gcore_x64_rce_bo.rb",
         "https://www.exploit-db.com/raw/41153"
@@ -34919,6 +34976,7 @@
     ],
     "CVE-2017-11882": [
         "https://github.com/0x09AL/CVE-2017-11882-metasploit",
+        "https://github.com/ActorExpose/CVE-2017-11882",
         "https://github.com/BlackMathIT/2017-11882_Generator",
         "https://github.com/CSC-pentest/cve-2017-11882",
         "https://github.com/ChaitanyaHaritash/CVE-2017-11882",
@@ -34945,8 +35003,13 @@
         "https://github.com/unamer/CVE-2017-11882",
         "https://github.com/zhouat/cve-2017-11882",
         "https://gitlab.com/Gaojianli/CVE-2017-11882",
+        "https://gitlab.com/Gaojianli/CVE-2017-11882",
+        "https://gitlab.com/Gaojianli/CVE-2017-11882",
         "https://gitlab.com/alessio_/CVE-2017-11882",
-        "https://gitlab.com/typ0drome/CVE-2017-11882",
+        "https://gitlab.com/alessio_/CVE-2017-11882",
+        "https://gitlab.com/alessio_/CVE-2017-11882",
+        "https://gitlab.com/xixicp3/CVE-2017-11882",
+        "https://gitlab.com/xixicp3/CVE-2017-11882",
         "https://gitlab.com/xixicp3/CVE-2017-11882",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/fileformat/office_ms17_11882.rb",
         "https://www.exploit-db.com/raw/43163"
@@ -35025,11 +35088,11 @@
     ],
     "CVE-2017-12615": [
         "https://github.com/1337g/CVE-2017-12615",
+        "https://github.com/BeyondCy/CVE-2017-12615",
         "https://github.com/Shellkeys/CVE-2017-12615",
         "https://github.com/breaktoprotect/CVE-2017-12615",
         "https://github.com/cved-sources/cve-2017-12615",
         "https://github.com/cyberharsh/Tomcat-CVE-2017-12615",
-        "https://github.com/iBearcat/CVE-2017-12615",
         "https://github.com/ianxtianxt/CVE-2017-12615",
         "https://github.com/mefulton/cve-2017-12615",
         "https://github.com/wsg00d/cve-2017-12615",
@@ -35069,7 +35132,7 @@
         "https://www.exploit-db.com/raw/45019"
     ],
     "CVE-2017-12637": [
-        "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/cve-2017-12637.yaml"
+        "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2017-12637.yaml"
     ],
     "CVE-2017-12718": [
         "https://www.exploit-db.com/raw/43776"
@@ -35086,7 +35149,6 @@
     "CVE-2017-12792": [
         "https://github.com/ZZS2017/cve-2017-12792"
     ],
-    "CVE-2017-12794": [],
     "CVE-2017-12842": [
         "https://github.com/nondejus/CVE-2017-12842"
     ],
@@ -35168,6 +35230,8 @@
     ],
     "CVE-2017-13253": [
         "https://github.com/tamirzb/CVE-2017-13253",
+        "https://gitlab.com/daedalus1/CVE-2017-13253",
+        "https://gitlab.com/daedalus1/CVE-2017-13253",
         "https://gitlab.com/daedalus1/CVE-2017-13253",
         "https://www.exploit-db.com/raw/44291"
     ],
@@ -35599,6 +35663,7 @@
     "CVE-2017-15361": [
         "https://github.com/0xxon/roca",
         "https://github.com/0xxon/zeek-plugin-roca",
+        "https://github.com/Elbarbons/Attacco-ROCA-sulla-vulnerabilita-CVE-2017-15361",
         "https://github.com/jnpuskar/RocaCmTest",
         "https://github.com/lva/Infineon-CVE-2017-15361",
         "https://github.com/nsacyber/Detect-CVE-2017-15361-TPM",
@@ -35972,9 +36037,6 @@
     "CVE-2017-16930": [
         "https://www.exploit-db.com/raw/43231"
     ],
-    "CVE-2017-16934": [
-        "https://github.com/crinny/goip"
-    ],
     "CVE-2017-16943": [
         "https://github.com/beraphin/CVE-2017-16943"
     ],
@@ -36059,8 +36121,7 @@
         "https://www.exploit-db.com/raw/43212"
     ],
     "CVE-2017-17215": [
-        "https://github.com/1337g/CVE-2017-17215",
-        "https://github.com/wilfred-wulbou/HG532d-RCE-Exploit"
+        "https://github.com/1337g/CVE-2017-17215"
     ],
     "CVE-2017-17309": [
         "https://github.com/exploit-labs/huawei_hg255s_exploit"
@@ -36087,7 +36148,7 @@
     ],
     "CVE-2017-17485": [
         "https://github.com/Al1ex/CVE-2017-17485",
-        "https://github.com/iBearcat/Jackson-CVE-2017-17485",
+        "https://github.com/maxbitcoin/Jackson-CVE-2017-17485",
         "https://github.com/tafamace/CVE-2017-17485",
         "https://github.com/x7iaob/cve-2017-17485"
     ],
@@ -36459,7 +36520,6 @@
         "https://github.com/Luth1er/CVE-2017-18345-COM_JOOMANAGER-ARBITRARY-FILE-DOWNLOAD",
         "https://www.exploit-db.com/raw/44252"
     ],
-    "CVE-2017-18349": [],
     "CVE-2017-18350": [
         "https://github.com/moznualom2/-link-https-bitcoincore.org-en-2019-11-08-CVE-2017-18350-link-"
     ],
@@ -36979,6 +37039,7 @@
     ],
     "CVE-2017-5415": [
         "https://github.com/649/CVE-2017-5415",
+        "https://gitlab.com/0x1/CVE-2017-5415",
         "https://gitlab.com/0x1/CVE-2017-5415"
     ],
     "CVE-2017-5447": [
@@ -37056,6 +37117,7 @@
         "https://github.com/invisiblethreat/strutser",
         "https://github.com/jas502n/S2-045-EXP-POC-TOOLS",
         "https://github.com/jas502n/st2-046-poc",
+        "https://github.com/jongmartinez/CVE-2017-5638",
         "https://github.com/jpacora/Struts2Shell",
         "https://github.com/jrrdev/cve-2017-5638",
         "https://github.com/jrrombaldo/CVE-2017-5638",
@@ -37107,7 +37169,7 @@
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/auxiliary/scanner/http/intel_amt_digest_bypass.rb"
     ],
     "CVE-2017-5693": [
-        "https://github.com/nallar/Puma6Fail"
+        "https://github.com/TransLunarInjection/Puma6Fail"
     ],
     "CVE-2017-5715": [
         "https://github.com/GregAskew/SpeculativeExecutionAssessment",
@@ -37190,6 +37252,8 @@
     ],
     "CVE-2017-6008": [
         "https://github.com/cbayet/Exploit-CVE-2017-6008",
+        "https://gitlab.com/AntiRootkit1/Exploit-CVE-2017-6008",
+        "https://gitlab.com/AntiRootkit1/Exploit-CVE-2017-6008",
         "https://gitlab.com/AntiRootkit1/Exploit-CVE-2017-6008",
         "https://www.exploit-db.com/raw/43057"
     ],
@@ -37278,6 +37342,7 @@
     ],
     "CVE-2017-6206": [
         "https://github.com/varangamin/CVE-2017-6206",
+        "https://gitlab.com/varangjamin/CVE-2017-6206",
         "https://gitlab.com/varangjamin/CVE-2017-6206",
         "https://www.exploit-db.com/raw/41662"
     ],
@@ -37439,7 +37504,6 @@
     "CVE-2017-6913": [
         "https://github.com/gquere/CVE-2017-6913"
     ],
-    "CVE-2017-6920": [],
     "CVE-2017-6953": [
         "https://www.exploit-db.com/raw/41972"
     ],
@@ -37582,7 +37646,6 @@
     "CVE-2017-7188": [
         "https://github.com/faizzaidi/Zurmo-Stable-3.1.1-XSS-By-Provensec-LLC"
     ],
-    "CVE-2017-7199": [],
     "CVE-2017-7221": [
         "https://www.exploit-db.com/raw/41928"
     ],
@@ -37709,19 +37772,20 @@
         "https://github.com/joxeankoret/CVE-2017-7494",
         "https://github.com/opsxcq/exploit-CVE-2017-7494",
         "https://gitlab.com/0x1/CVE-2017-7494",
+        "https://gitlab.com/0x1/CVE-2017-7494",
+        "https://gitlab.com/0x1/CVE-2017-7494",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/samba/is_known_pipename.rb",
         "https://www.exploit-db.com/raw/42060",
         "https://www.exploit-db.com/raw/42084"
     ],
-    "CVE-2017-7504": [],
     "CVE-2017-7525": [
         "https://github.com/47bwy/CVE-2017-7525",
         "https://github.com/BassinD/jackson-RCE",
         "https://github.com/Dannners/jackson-deserialization-2017-7525",
         "https://github.com/Ingenuity-Fainting-Goats/CVE-2017-7525-Jackson-Deserialization-Lab",
         "https://github.com/JavanXD/Demo-Exploit-Jackson-RCE",
-        "https://github.com/SecureSkyTechnology/study-struts2-s2-054_055-jackson-cve-2017-7525_cve-2017-15095",
-        "https://github.com/iBearcat/S2-055"
+        "https://github.com/Nazicc/S2-055",
+        "https://github.com/SecureSkyTechnology/study-struts2-s2-054_055-jackson-cve-2017-7525_cve-2017-15095"
     ],
     "CVE-2017-7529": [
         "https://github.com/MaxSecurity/CVE-2017-7529-POC",
@@ -37731,7 +37795,6 @@
         "https://github.com/daehee/nginx-overflow",
         "https://github.com/en0f/CVE-2017-7529_PoC",
         "https://github.com/liusec/CVE-2017-7529",
-        "https://github.com/mpalonso/ferni",
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/nginx-remote-integer-overflow-cve-2017-7529.yaml"
     ],
     "CVE-2017-7571": [
@@ -37855,7 +37918,6 @@
         "https://github.com/faizzaidi/Admidio-3.2.8-CSRF-POC-by-Provensec-llc",
         "https://www.exploit-db.com/raw/42005"
     ],
-    "CVE-2017-8386": [],
     "CVE-2017-8422": [
         "https://www.exploit-db.com/raw/42053"
     ],
@@ -38111,6 +38173,8 @@
         "https://github.com/vysecurity/CVE-2017-8759",
         "https://github.com/zhengkook/CVE-2017-8759",
         "https://gitlab.com/daedalus1/CVE-2017-8759-Exploit-sample",
+        "https://gitlab.com/daedalus1/CVE-2017-8759-Exploit-sample",
+        "https://gitlab.com/daedalus1/CVE-2017-8759-Exploit-sample",
         "https://www.exploit-db.com/raw/42711"
     ],
     "CVE-2017-8760": [
@@ -38295,7 +38359,6 @@
     "CVE-2017-9355": [
         "https://www.exploit-db.com/raw/42119"
     ],
-    "CVE-2017-9362": [],
     "CVE-2017-9412": [
         "https://www.exploit-db.com/raw/42390"
     ],
@@ -38455,6 +38518,7 @@
         "https://github.com/UbuntuStrike/struts_rest_rce_fuzz-CVE-2017-9805-",
         "https://github.com/chrisjd20/cve-2017-9805.py",
         "https://github.com/hahwul/struts2-rce-cve-2017-9805-ruby",
+        "https://github.com/jongmartinez/-CVE-2017-9805-",
         "https://github.com/luc10/struts-rce-cve-2017-9805",
         "https://github.com/mazen160/struts-pwn_CVE-2017-9805",
         "https://github.com/rvermeulen/apache-struts-cve-2017-9805",
@@ -38515,7 +38579,6 @@
     "CVE-2017-9979": [
         "https://www.exploit-db.com/raw/42517"
     ],
-    "CVE-2017-9993": [],
     "CVE-2017-9999": [
         "https://github.com/homjxi0e/CVE-2017-9999_bypassing_General_Firefox"
     ],
@@ -38641,6 +38704,11 @@
         "https://github.com/likescam/CVE-2018-0802_CVE-2017-11882",
         "https://github.com/rxwx/CVE-2018-0802",
         "https://github.com/zldww2011/CVE-2018-0802_POC",
+        "https://gitlab.com/daedalus1/CVE-2018-0802",
+        "https://gitlab.com/daedalus1/CVE-2018-0802",
+        "https://gitlab.com/daedalus1/CVE-2018-0802",
+        "https://gitlab.com/daedalus1/CVE-2018-0802",
+        "https://gitlab.com/daedalus1/CVE-2018-0802",
         "https://gitlab.com/daedalus1/CVE-2018-0802"
     ],
     "CVE-2018-0821": [
@@ -38898,6 +38966,11 @@
         "https://github.com/imlzw/Kubernetes-1.12.3-all-auto-install",
         "https://github.com/mdnix/cve-2018-1002105",
         "https://gitlab.com/ashleyjohnson/poc_CVE-2018-1002105",
+        "https://gitlab.com/ashleyjohnson/poc_CVE-2018-1002105",
+        "https://gitlab.com/ashleyjohnson/poc_CVE-2018-1002105",
+        "https://gitlab.com/rchan-gitlab/poc_CVE-2018-1002105",
+        "https://gitlab.com/rchan-gitlab/poc_CVE-2018-1002105",
+        "https://gitlab.com/rchan-gitlab/poc_CVE-2018-1002105",
         "https://www.exploit-db.com/raw/46052",
         "https://www.exploit-db.com/raw/46053"
     ],
@@ -39067,7 +39140,6 @@
     "CVE-2018-10577": [
         "https://www.exploit-db.com/raw/45409"
     ],
-    "CVE-2018-1058": [],
     "CVE-2018-10580": [
         "https://www.exploit-db.com/raw/44608"
     ],
@@ -39203,6 +39275,8 @@
         "https://github.com/xFreed0m/CVE-2018-10933",
         "https://github.com/youkergav/CVE-2018-10933",
         "https://gitlab.com/daedalus1/CVE-2018-10933",
+        "https://gitlab.com/daedalus1/CVE-2018-10933",
+        "https://gitlab.com/daedalus1/CVE-2018-10933",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/auxiliary/scanner/ssh/libssh_auth_bypass.rb",
         "https://www.exploit-db.com/raw/45638"
     ],
@@ -39231,6 +39305,7 @@
         "https://www.exploit-db.com/raw/44628"
     ],
     "CVE-2018-1111": [
+        "https://github.com/baldassarreFe/FEP3370-advanced-ethical-hacking",
         "https://github.com/kkirsche/CVE-2018-1111",
         "https://github.com/knqyf263/CVE-2018-1111",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/unix/dhcp/rhel_dhcp_client_command_injection.rb",
@@ -39492,6 +39567,8 @@
         "https://github.com/tuxotron/cve-2018-11776-docker",
         "https://github.com/xfox64x/CVE-2018-11776",
         "https://gitlab.com/drent/S2-057-CVE-2018-11776",
+        "https://gitlab.com/drent/S2-057-CVE-2018-11776",
+        "https://gitlab.com/drent/S2-057-CVE-2018-11776",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/http/struts2_namespace_ognl.rb",
         "https://www.exploit-db.com/raw/45260",
         "https://www.exploit-db.com/raw/45262",
@@ -39745,7 +39822,6 @@
         "https://www.exploit-db.com/raw/44934"
     ],
     "CVE-2018-1271": [
-        "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/spring-lfi.yaml",
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/spring-mvc-path-traversal-cve-2018-1271.yaml",
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2018-1271.yaml"
     ],
@@ -39874,15 +39950,20 @@
     ],
     "CVE-2018-13379": [
         "https://github.com/0xHunter/FortiOS-Credentials-Disclosure",
+        "https://github.com/B1anda0/CVE-2018-13379",
         "https://github.com/Blazz3/cve2018-13379-nmap-script",
+        "https://github.com/Zeop-CyberSec/fortios_vpnssl_traversal_leak",
         "https://github.com/jpiechowka/at-doom-fortigate",
-        "https://github.com/mandr4x/CVE-2018-13379-FortinetVPN",
+        "https://github.com/k4nfr3/CVE-2018-13379-Fortinet",
         "https://github.com/milo2012/CVE-2018-13379",
         "https://github.com/pwn3z/CVE-2018-13379-FortinetVPN",
         "https://github.com/yukar1z0e/CVE-2018-13379",
         "https://raw.githubusercontent.com/1N3/Sn1per/master/templates/active/CVE-2018-13379_-_Fortigate_Pulse_Connect_Secure_Directory_Traversal.sh",
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/fortinet-fortigate-vpn-path-traversal-xss-cve-2018-13379.yaml",
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2018-13379.yaml"
+    ],
+    "CVE-2018-13380": [
+        "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2018-13380.yaml"
     ],
     "CVE-2018-13382": [
         "https://github.com/milo2012/CVE-2018-13382"
@@ -40012,7 +40093,6 @@
     "CVE-2018-14541": [
         "https://www.exploit-db.com/raw/45140"
     ],
-    "CVE-2018-14574": [],
     "CVE-2018-14592": [
         "https://www.exploit-db.com/raw/45447"
     ],
@@ -40036,7 +40116,6 @@
         "https://www.exploit-db.com/raw/46142"
     ],
     "CVE-2018-14667": [
-        "https://github.com/MattKeeley/RichFaces-3.X-Exploit",
         "https://github.com/Venscor/CVE-2018-14667-poc",
         "https://github.com/nareshmail/cve-2018-14667",
         "https://github.com/quandqn/cve-2018-14667",
@@ -40063,9 +40142,6 @@
     ],
     "CVE-2018-14772": [
         "https://github.com/spencerdodd/CVE-2018-14772"
-    ],
-    "CVE-2018-14773": [
-        "https://github.com/lckJack/legacySymfony"
     ],
     "CVE-2018-14840": [
         "https://www.exploit-db.com/raw/45150"
@@ -40165,6 +40241,7 @@
         "https://www.exploit-db.com/raw/45696"
     ],
     "CVE-2018-15473": [
+        "https://github.com/1stPeak/CVE-2018-15473",
         "https://github.com/CaioCGH/EP4-redes",
         "https://github.com/JoeBlackSecurity/CrappyCode",
         "https://github.com/JoeBlackSecurity/SSHUsernameBruter-SSHUB",
@@ -40172,7 +40249,11 @@
         "https://github.com/Moon1705/easy_security",
         "https://github.com/NHPT/SSH-account-enumeration-verification-script",
         "https://github.com/Rhynorater/CVE-2018-15473-Exploit",
+        "https://github.com/Sait-Nuri/CVE-2018-15473",
         "https://github.com/Wh1t3Fox/cve-2018-15473",
+        "https://github.com/WildfootW/CVE-2018-15473_OpenSSH_7.7",
+        "https://github.com/coollce/CVE-2018-15473_burte",
+        "https://github.com/crAckZ0p/CVE-2018-15473-py3",
         "https://github.com/cved-sources/cve-2018-15473",
         "https://github.com/epi052/cve-2018-15473",
         "https://github.com/gbonacini/opensshenum",
@@ -40181,6 +40262,8 @@
         "https://github.com/secmode/enumpossible",
         "https://github.com/trickster1103/-",
         "https://github.com/trimstray/massh-enum",
+        "https://gitlab.com/xer0dayz/CVE-2018-15473-Exploit",
+        "https://gitlab.com/xer0dayz/CVE-2018-15473-Exploit",
         "https://gitlab.com/xer0dayz/CVE-2018-15473-Exploit",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/auxiliary/scanner/ssh/ssh_enumusers.rb",
         "https://www.exploit-db.com/raw/45210",
@@ -40327,6 +40410,7 @@
         "https://github.com/kphongagsorn/adobe-flash-cve2018-15982",
         "https://github.com/scanfsec/CVE-2018-15982",
         "https://gitlab.com/0x1/CVE-2018-15982",
+        "https://gitlab.com/0x1/CVE-2018-15982",
         "https://www.exploit-db.com/raw/46051"
     ],
     "CVE-2018-16059": [
@@ -40413,9 +40497,6 @@
     ],
     "CVE-2018-16517": [
         "https://www.exploit-db.com/raw/46726"
-    ],
-    "CVE-2018-16621": [
-        "https://securitylab.github.com/advisories/GHSL-2020-015-nxrm-sonatype"
     ],
     "CVE-2018-16623": [
         "https://github.com/security-breachlock/CVE-2018-16623"
@@ -40568,9 +40649,6 @@
     "CVE-2018-17144": [
         "https://github.com/hikame/CVE-2018-17144_POC",
         "https://github.com/iioch/ban-exploitable-bitcoin-nodes"
-    ],
-    "CVE-2018-17145": [
-        "https://github.com/eabz/invdos"
     ],
     "CVE-2018-17173": [
         "https://www.exploit-db.com/raw/45448",
@@ -40793,6 +40871,7 @@
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/http/dnn_cookie_deserialization_rce.rb"
     ],
     "CVE-2018-18326": [
+        "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/dotnetnuke-cookie-desr-cve-2018-18326.yaml",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/http/dnn_cookie_deserialization_rce.rb"
     ],
     "CVE-2018-18368": [
@@ -40955,7 +41034,6 @@
     "CVE-2018-18924": [
         "https://www.exploit-db.com/raw/45680"
     ],
-    "CVE-2018-18925": [],
     "CVE-2018-18955": [
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/local/nested_namespace_idmap_limit_priv_esc.rb",
         "https://www.exploit-db.com/raw/45886",
@@ -41049,7 +41127,6 @@
     "CVE-2018-19466": [
         "https://github.com/MauroEldritch/lempo"
     ],
-    "CVE-2018-19475": [],
     "CVE-2018-19487": [
         "https://github.com/Antho59/wp-jobhunt-exploit"
     ],
@@ -41064,7 +41141,6 @@
     ],
     "CVE-2018-19518": [
         "https://github.com/ensimag-security/CVE-2018-19518",
-        "https://gitlab.com/ensimag-security/CVE-2018-19518",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/php_imap_open_rce.rb",
         "https://www.exploit-db.com/raw/45914"
     ],
@@ -41130,6 +41206,8 @@
         "https://github.com/Ekultek/PoC",
         "https://github.com/d4gh0s7/CVE-2018-19788",
         "https://github.com/jhlongjr/CVE-2018-19788",
+        "https://gitlab.com/hyperd/ansible-role-cve-2018-19788",
+        "https://gitlab.com/hyperd/ansible-role-cve-2018-19788",
         "https://gitlab.com/hyperd/ansible-role-cve-2018-19788"
     ],
     "CVE-2018-19798": [
@@ -41210,6 +41288,9 @@
     "CVE-2018-19936": [
         "https://www.exploit-db.com/raw/45969"
     ],
+    "CVE-2018-19987": [
+        "https://github.com/nahueldsanchez/blogpost_cve-2018-19987-analysis"
+    ],
     "CVE-2018-1999002": [
         "https://github.com/0x6b7966/CVE-2018-1999002",
         "https://github.com/0xtavian/CVE-2019-1003000-and-CVE-2018-1999002-Pre-Auth-RCE-Jenkins",
@@ -41264,11 +41345,12 @@
         "https://github.com/nmweizi/CVE-2018-20250-poc-winrar",
         "https://github.com/technicaldada/hack-winrar",
         "https://gitlab.com/gavz/CVE-2018-20250-WinRAR-ACE",
+        "https://gitlab.com/gavz/CVE-2018-20250-WinRAR-ACE",
+        "https://gitlab.com/gavz/CVE-2018-20250-WinRAR-ACE",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/fileformat/winrar_ace.rb",
         "https://www.exploit-db.com/raw/46552",
         "https://www.exploit-db.com/raw/46756"
     ],
-    "CVE-2018-20253": [],
     "CVE-2018-20323": [
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/mailcleaner_exec.rb"
     ],
@@ -41280,6 +41362,9 @@
     ],
     "CVE-2018-20418": [
         "https://www.exploit-db.com/raw/46054"
+    ],
+    "CVE-2018-20433": [
+        "https://github.com/shanika04/cp30_XXE_partial_fix"
     ],
     "CVE-2018-20434": [
         "https://github.com/mhaskar/CVE-2018-20434",
@@ -41345,6 +41430,9 @@
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/jira-xss-cve-2018-20824.yaml",
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2018-20824.yaml"
     ],
+    "CVE-2018-20966": [
+        "https://github.com/parzel/CVE-2018-20966"
+    ],
     "CVE-2018-2380": [
         "https://github.com/erpscanteam/CVE-2018-2380",
         "https://www.exploit-db.com/raw/44292"
@@ -41366,7 +41454,6 @@
         "https://github.com/aedoo/CVE-2018-2628-MultiThreading",
         "https://github.com/forlin/CVE-2018-2628",
         "https://github.com/hawk-520/CVE-2018-2628",
-        "https://github.com/hawk-tiger/CVE-2018-2628",
         "https://github.com/jas502n/CVE-2018-2628",
         "https://github.com/jiansiting/weblogic-cve-2018-2628",
         "https://github.com/likescam/CVE-2018-2628",
@@ -41409,19 +41496,20 @@
         "https://www.exploit-db.com/raw/45126"
     ],
     "CVE-2018-2893": [
-        "https://github.com/anbai-inc/CVE-2018-2893",
         "https://github.com/bigsizeme/CVE-2018-2893",
         "https://github.com/ianxtianxt/CVE-2018-2893",
         "https://github.com/jas502n/CVE-2018-2893",
         "https://github.com/pyn3rd/CVE-2018-2893",
         "https://github.com/qianl0ng/CVE-2018-2893",
-        "https://github.com/ryanInf/CVE-2018-2893"
+        "https://github.com/ryanInf/CVE-2018-2893",
+        "https://github.com/sry309/CVE-2018-2893"
     ],
     "CVE-2018-2894": [
         "https://github.com/111ddea/cve-2018-2894",
         "https://github.com/LandGrey/CVE-2018-2894",
         "https://github.com/changpin666com/CVE-2018-2894-Weblogic-",
-        "https://github.com/jas502n/CVE-2018-2894"
+        "https://github.com/jas502n/CVE-2018-2894",
+        "https://github.com/k8gege/PyLadon"
     ],
     "CVE-2018-3191": [
         "https://github.com/Libraggbond/CVE-2018-3191",
@@ -41464,7 +41552,6 @@
     "CVE-2018-3760": [
         "https://github.com/cyberharsh/Ruby-On-Rails-Path-Traversal-Vulnerability-CVE-2018-3760-",
         "https://github.com/mpgn/CVE-2018-3760",
-        "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/rails-cve-2018-3760.yaml",
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/rails-sprockets-info-leak-cve-2018-3760.yaml",
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2018-3760.yaml"
     ],
@@ -41634,15 +41721,16 @@
     "CVE-2018-4878": [
         "https://github.com/B0fH/CVE-2018-4878",
         "https://github.com/HuanWoWeiLan/SoftwareSystemSecurity-2019",
+        "https://github.com/KathodeN/CVE-2018-4878",
         "https://github.com/Sch01ar/CVE-2018-4878",
         "https://github.com/SyFi/CVE-2018-4878",
         "https://github.com/Yable/CVE-2018-4878",
-        "https://github.com/anbai-inc/CVE-2018-4878",
         "https://github.com/hybridious/CVE-2018-4878",
         "https://github.com/mdsecactivebreach/CVE-2018-4878",
         "https://github.com/vysecurity/CVE-2018-4878",
         "https://github.com/ydl555/CVE-2018-4878",
         "https://github.com/ydl555/CVE-2018-4878-",
+        "https://gitlab.com/0x1/CVE-2018-4878",
         "https://gitlab.com/0x1/CVE-2018-4878",
         "https://www.exploit-db.com/raw/44412"
     ],
@@ -42160,11 +42248,9 @@
         "https://github.com/kawkab101/cve-2018-6574",
         "https://github.com/kenprice/cve-2018-6574",
         "https://github.com/kev-ho/cve-2018-6574-payload",
-        "https://github.com/l4rm4nd/CVE-2018-6574",
         "https://github.com/lsnakazone/cve-2018-6574",
         "https://github.com/mekhalleh/cve-2018-6574",
         "https://github.com/mhamed366/CVE-2018-6574",
-        "https://github.com/michiiii/go-get-exploit",
         "https://github.com/neargle/CVE-2018-6574-POC",
         "https://github.com/nthuong95/CVE-2018-6574",
         "https://github.com/pswalia2u/CVE-2018-6574",
@@ -42529,6 +42615,7 @@
         "https://github.com/Hestat/drupal-check",
         "https://github.com/Jyozi/CVE-2018-7600",
         "https://github.com/Sch01ar/CVE-2018-7600",
+        "https://github.com/a2u/CVE-2018-7600",
         "https://github.com/cved-sources/cve-2018-7600",
         "https://github.com/dr-iman/CVE-2018-7600-Drupal-0day-RCE",
         "https://github.com/dreadlocked/Drupalgeddon2",
@@ -42659,7 +42746,6 @@
     "CVE-2018-8004": [
         "https://github.com/mosesrenegade/CVE-2018-8004"
     ],
-    "CVE-2018-8007": [],
     "CVE-2018-8021": [
         "https://github.com/r3dxpl0it/Apache-Superset-Remote-Code-Execution-PoC-CVE-2018-8021",
         "https://www.exploit-db.com/raw/45933"
@@ -42716,6 +42802,7 @@
         "https://github.com/ozkanbilge/CVE-2018-8120",
         "https://github.com/qiantu88/CVE-2018-8120",
         "https://github.com/unamer/CVE-2018-8120",
+        "https://github.com/wikiZ/cve-2018-8120",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/local/ms18_8120_win32k_privesc.rb",
         "https://www.exploit-db.com/raw/45653"
     ],
@@ -42733,6 +42820,8 @@
     ],
     "CVE-2018-8172": [
         "https://github.com/SyFi/CVE-2018-8172",
+        "https://gitlab.com/0x1/CVE-2018-8172",
+        "https://gitlab.com/0x1/CVE-2018-8172",
         "https://gitlab.com/0x1/CVE-2018-8172"
     ],
     "CVE-2018-8174": [
@@ -42744,6 +42833,9 @@
         "https://github.com/orf53975/Rig-Exploit-for-CVE-2018-8174",
         "https://github.com/piotrflorczyk/cve-2018-8174_analysis",
         "https://github.com/ruthlezs/ie11_vbscript_exploit",
+        "https://github.com/www201001/https-github.com-iBearcat-CVE-2018-8174_EXP",
+        "https://github.com/www201001/https-github.com-iBearcat-CVE-2018-8174_EXP.git-",
+        "https://gitlab.com/0x1/CVE-2018-8174",
         "https://gitlab.com/0x1/CVE-2018-8174",
         "https://www.exploit-db.com/raw/44741"
     ],
@@ -42877,7 +42969,6 @@
         "https://github.com/timwhitez/CVE-2018-8639-EXP",
         "https://github.com/ze0r/CVE-2018-8639-exp"
     ],
-    "CVE-2018-8715": [],
     "CVE-2018-8716": [
         "https://www.exploit-db.com/raw/44531"
     ],
@@ -43020,6 +43111,7 @@
         "https://www.exploit-db.com/raw/44417"
     ],
     "CVE-2018-9126": [
+        "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/dotnetnuke-dnnarticle-lfi-cve-2018-9126.yaml",
         "https://www.exploit-db.com/raw/44414"
     ],
     "CVE-2018-9128": [
@@ -43184,6 +43276,8 @@
         "https://github.com/shacojx/cve-2018-9995",
         "https://github.com/zzh217/CVE-2018-9995_Batch_scanning_exp",
         "https://gitlab.com/softdream/CVE-2018-9995_dvr_credentials",
+        "https://gitlab.com/softdream/CVE-2018-9995_dvr_credentials",
+        "https://gitlab.com/softdream/CVE-2018-9995_dvr_credentials",
         "https://www.exploit-db.com/raw/44577"
     ],
     "CVE-2019-0053": [
@@ -43213,13 +43307,15 @@
         "https://github.com/ianxtianxt/cve-2019-0227"
     ],
     "CVE-2019-0230": [
+        "https://github.com/Al1ex/CVE-2019-0230",
         "https://github.com/PrinceFPF/CVE-2019-0230",
         "https://github.com/f8al/CVE-2019-0230-PoC",
-        "https://github.com/ramoncjs3/CVE-2019-0230"
+        "https://github.com/ramoncjs3/CVE-2019-0230",
+        "https://github.com/soshewh97/CVE-2019-0230_Struts2S2-059"
     ],
     "CVE-2019-0232": [
+        "https://github.com/0xmanjoos/CVE-2019-0232",
         "https://github.com/CherishHair/CVE-2019-0232-EXP",
-        "https://github.com/j0ndoe/CVE-2019-0232",
         "https://github.com/jas502n/CVE-2019-0232",
         "https://github.com/pyn3rd/CVE-2019-0232",
         "https://github.com/setrus/CVE-2019-0232",
@@ -43247,6 +43343,7 @@
         "https://www.exploit-db.com/raw/46161"
     ],
     "CVE-2019-0567": [
+        "https://gitlab.com/samyuktha_p/cve-2019-0567",
         "https://gitlab.com/samyuktha_p/cve-2019-0567",
         "https://www.exploit-db.com/raw/46203"
     ],
@@ -43324,6 +43421,7 @@
         "https://github.com/cbwang505/CVE-2019-0708-EXP-Windows",
         "https://github.com/closethe/CVE-2019-0708-POC",
         "https://github.com/coolboy4me/cve-2019-0708_bluekeep_rce",
+        "https://github.com/cpkkcb/CVE-2019-0708-BlueKeep",
         "https://github.com/cream-sec/CVE-2019-0708-Msf--",
         "https://github.com/cve-2019-0708-poc/cve-2019-0708",
         "https://github.com/cvencoder/cve-2019-0708",
@@ -43351,7 +43449,6 @@
         "https://github.com/krivegasa/Mass-scanner-for-CVE-2019-0708-RDP-RCE-Exploit",
         "https://github.com/l9c/rdp0708scanner",
         "https://github.com/lwtz/CVE-2019-0708",
-        "https://github.com/lwtz/sudoku.py",
         "https://github.com/mai-lang-chai/CVE-2019-0708-RCE",
         "https://github.com/major203/cve-2019-0708-scan",
         "https://github.com/matengfei000/CVE-2019-0708",
@@ -43374,7 +43471,6 @@
         "https://github.com/sbkcbig/CVE-2019-0708-EXPloit-3389",
         "https://github.com/sbkcbig/CVE-2019-0708-Poc-exploit",
         "https://github.com/shishibabyq/CVE-2019-0708",
-        "https://github.com/shumtheone/CVE-2019-0708",
         "https://github.com/shun-gg/CVE-2019-0708",
         "https://github.com/skommando/CVE-2019-0708",
         "https://github.com/skyshell20082008/CVE-2019-0708-PoC-Hitting-Path",
@@ -43387,7 +43483,6 @@
         "https://github.com/turingcompl33t/bluekeep",
         "https://github.com/ulisesrc/-2-CVE-2019-0708",
         "https://github.com/umarfarook882/CVE-2019-0708",
-        "https://github.com/upknboy/CVE-2019-0708-BlueKeep",
         "https://github.com/wdfcc/CVE-2019-0708",
         "https://github.com/worawit/CVE-2019-0708",
         "https://github.com/wqsemc/CVE-2019-0708",
@@ -43398,9 +43493,14 @@
         "https://github.com/zerosum0x0/CVE-2019-0708",
         "https://github.com/zjw88282740/CVE-2019-0708-win7",
         "https://gitlab.com/alessio_/CVE-2019-0708",
+        "https://gitlab.com/alessio_/CVE-2019-0708",
+        "https://gitlab.com/alessio_/CVE-2019-0708",
+        "https://gitlab.com/ntkernel/CVE-2019-0708",
         "https://gitlab.com/ntkernel/CVE-2019-0708",
         "https://gitlab.com/ntkernel/Remote-Desktop-Services-Remote-Code-Execution-Vulnerability-CVE-2019-0708-",
-        "https://gitlab.com/typ0drome/CVE-2019-0708",
+        "https://gitlab.com/ntkernel/Remote-Desktop-Services-Remote-Code-Execution-Vulnerability-CVE-2019-0708-",
+        "https://gitlab.com/xixicp3/CVE-2019-0708",
+        "https://gitlab.com/xixicp3/CVE-2019-0708",
         "https://gitlab.com/xixicp3/CVE-2019-0708",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/auxiliary/scanner/rdp/cve_2019_0708_bluekeep.rb",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/rdp/cve_2019_0708_bluekeep_rce.rb"
@@ -43655,6 +43755,7 @@
         "https://github.com/jas502n/CVE-2019-11043",
         "https://github.com/k8gege/CVE-2019-11043",
         "https://github.com/kriskhub/CVE-2019-11043",
+        "https://github.com/lindemer/CVE-2019-11043",
         "https://github.com/moniik/CVE-2019-11043_env",
         "https://github.com/neex/phuip-fpizdam",
         "https://github.com/shadow-horse/cve-2019-11043",
@@ -43664,7 +43765,6 @@
         "https://gitlab.com/yangsec888/phuip-fpizdam",
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/php-rce-cve-2019-11043.yaml",
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/php7-rce-cve-2019-11043.yaml",
-        "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2019-11043.yaml",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/http/php_fpm_rce.rb"
     ],
     "CVE-2019-11061": [
@@ -43692,8 +43792,6 @@
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/http/getsimplecms_unauth_code_exec.rb"
     ],
     "CVE-2019-11248": [
-        "https://github.com/koharin/cve-2019-11248-after",
-        "https://github.com/koharin/cve-2019-11248-before",
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/kubelet-pprof-exposed-cve-2019-11248.yaml",
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2019-11248.yaml"
     ],
@@ -43760,8 +43858,6 @@
         "https://github.com/imjdl/CVE-2019-11510-poc",
         "https://github.com/jas502n/CVE-2019-11510-1",
         "https://github.com/jason3e7/CVE-2019-11510",
-        "https://github.com/ladyleet1337/Pulse",
-        "https://github.com/mandr4x/CVE-2019-11510-PulseVPN",
         "https://github.com/nuc13us/Pulse",
         "https://github.com/projectzeroindia/CVE-2019-11510",
         "https://github.com/pwn3z/CVE-2019-11510-PulseVPN",
@@ -43795,7 +43891,8 @@
         "https://github.com/jas502n/CVE-2019-11581",
         "https://github.com/kobs0N/CVE-2019-11581",
         "https://raw.githubusercontent.com/1N3/Sn1per/master/templates/active/CVE-2019-11581_-_Jira_Template_Injection.sh",
-        "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/jira-ssti-cve-2019-11581.yaml"
+        "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/jira-ssti-cve-2019-11581.yaml",
+        "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2019-11581.yaml"
     ],
     "CVE-2019-11599": [
         "https://www.exploit-db.com/raw/46781"
@@ -43855,6 +43952,7 @@
     ],
     "CVE-2019-1215": [
         "https://github.com/bluefrostsecurity/CVE-2019-1215",
+        "https://gitlab.com/gavz/CVE-2019-1215",
         "https://gitlab.com/gavz/CVE-2019-1215"
     ],
     "CVE-2019-12169": [
@@ -43964,6 +44062,9 @@
     ],
     "CVE-2019-12594": [
         "https://github.com/Alexandre-Bartel/CVE-2019-12594"
+    ],
+    "CVE-2019-12725": [
+        "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2019-12725.yaml"
     ],
     "CVE-2019-12735": [
         "https://github.com/oldthree3/CVE-2019-12735-VIM-NEOVIM",
@@ -44103,6 +44204,7 @@
         "https://github.com/mandarenmanman/CVE-2019-1367"
     ],
     "CVE-2019-13694": [
+        "https://gitlab.com/nemux/cve-2019-13694",
         "https://gitlab.com/nemux/cve-2019-13694"
     ],
     "CVE-2019-13720": [
@@ -44137,7 +44239,6 @@
     "CVE-2019-14079": [
         "https://github.com/parallelbeings/CVE-2019-14079"
     ],
-    "CVE-2019-1414": [],
     "CVE-2019-14205": [
         "https://github.com/security-kma/EXPLOITING-CVE-2019-14205",
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/wordpress-lfi-cve-2019-14205.yaml"
@@ -44148,7 +44249,6 @@
     "CVE-2019-14220": [
         "https://github.com/seqred-s-a/cve-2019-14220"
     ],
-    "CVE-2019-14234": [],
     "CVE-2019-14267": [
         "https://github.com/snappyJack/pdfresurrect_CVE-2019-14267"
     ],
@@ -44195,6 +44295,9 @@
     ],
     "CVE-2019-14439": [
         "https://github.com/jas502n/CVE-2019-14439"
+    ],
+    "CVE-2019-14450": [
+        "https://github.com/securifera/CVE-2019-14450"
     ],
     "CVE-2019-14470": [
         "https://www.exploit-db.com/raw/47304"
@@ -44249,10 +44352,8 @@
         "https://github.com/sgabe/CVE-2019-1476"
     ],
     "CVE-2019-1477": [
-        "https://github.com/2yong1/CVE-2019-1477",
         "https://github.com/intellee/CVE-2019-1477"
     ],
-    "CVE-2019-14827": [],
     "CVE-2019-14830": [
         "https://github.com/Fr3d-/moodle-token-stealer"
     ],
@@ -44285,6 +44386,7 @@
         "https://github.com/Pichuuuuu/CVE-2019-15107",
         "https://github.com/Rayferrufino/Make-and-Break",
         "https://github.com/cdedmondson/CVE-2019-15107",
+        "https://github.com/diegojuan/CVE-2019-15107",
         "https://github.com/hannob/webminex",
         "https://github.com/ianxtianxt/CVE-2019-15107",
         "https://github.com/jas502n/CVE-2019-15107",
@@ -44324,9 +44426,6 @@
     "CVE-2019-15605": [
         "https://github.com/jlcarruda/node-poc-http-smuggling"
     ],
-    "CVE-2019-15606": [
-        "https://github.com/Babs84/POC-CVE-2019-15606"
-    ],
     "CVE-2019-15642": [
         "https://github.com/jas502n/CVE-2019-15642"
     ],
@@ -44345,6 +44444,7 @@
     ],
     "CVE-2019-15813": [
         "https://github.com/iamhrishikeshpadhye/CVE-2019-15813-Exploitation",
+        "https://github.com/wolf1892/CVE-2019-15813",
         "https://www.exploit-db.com/raw/47323"
     ],
     "CVE-2019-15814": [
@@ -44377,18 +44477,19 @@
     ],
     "CVE-2019-16098": [
         "https://github.com/Barakat/CVE-2019-16098",
+        "https://gitlab.com/gavz/CVE-2019-16098",
+        "https://gitlab.com/gavz/CVE-2019-16098",
         "https://gitlab.com/gavz/CVE-2019-16098"
     ],
     "CVE-2019-16113": [
         "https://github.com/Kenun99/CVE-2019-16113-Dockerfile",
         "https://github.com/Noroh4xy/CVE-2019-16113",
-        "https://github.com/bbr-2716057/CVE-2019-16113-PoC",
         "https://github.com/cybervaca/CVE-2019-16113",
         "https://github.com/hg8/CVE-2019-16113-PoC",
         "https://github.com/itsjeffersonli/CVE-2019-16113",
-        "https://github.com/persian64/CVE-2019-16113",
         "https://github.com/west-tek/CVE-2019-16113-PoC",
         "https://github.com/ynots0ups/CVE-2019-16113",
+        "https://gitlab.com/s0ups/cve-2019-16113",
         "https://gitlab.com/s0ups/cve-2019-16113",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/bludit_upload_images_exec.rb"
     ],
@@ -44498,9 +44599,11 @@
         "https://raw.githubusercontent.com/1N3/Sn1per/master/templates/active/CVE-2019-16759_-_vBulletin_5.x_0-Day_Pre-Auth_Remote_Command_Execution.sh",
         "https://raw.githubusercontent.com/1N3/Sn1per/master/templates/active/CVE-2019-16759_-_vBulletin_5.x_0-Day_Pre-Auth_Remote_Command_Execution_Bypass.sh",
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/vbulletin-rce-cve-2019-16759.yaml",
-        "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2019-16759-1.yaml",
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2019-16759.yaml",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/http/vbulletin_widgetconfig_rce.rb"
+    ],
+    "CVE-2019-16759-1": [
+        "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2019-16759-1.yaml"
     ],
     "CVE-2019-16784": [
         "https://github.com/AlterSolutions/PyInstallerPrivEsc"
@@ -44524,6 +44627,9 @@
     "CVE-2019-17026": [
         "https://github.com/maxpl0it/CVE-2019-17026-Exploit"
     ],
+    "CVE-2019-17041": [
+        "https://github.com/Resery/CVE-2019-17041"
+    ],
     "CVE-2019-17080": [
         "https://github.com/Andhrimnirr/Mintinstall-object-injection",
         "https://github.com/materaj2/Mintinstall-object-injection"
@@ -44538,13 +44644,13 @@
         "https://github.com/administra1tor/CVE-2019-17234-Wordpress-DirStroyer"
     ],
     "CVE-2019-17240": [
-        "https://github.com/ColdFusionX/CVE-2019-17240-Exploit-Bludit-BF-bypass",
         "https://github.com/ColdFusionX/CVE-2019-17240_Bludit-BF-Bypass",
         "https://github.com/LucaReggiannini/Bludit-3-9-2-bb",
         "https://github.com/Noroh4xy/CVE-2019-17240",
-        "https://github.com/persian64/CVE-2019-17240",
         "https://github.com/pingport80/CVE-2019-17240",
         "https://github.com/tripleoctopus/Bludit-CVE-2019-17240-Fork",
+        "https://gitlab.com/quizno/cve-2019-17240-exploit",
+        "https://gitlab.com/quizno/cve-2019-17240-exploit",
         "https://gitlab.com/quizno/cve-2019-17240-exploit"
     ],
     "CVE-2019-17270": [
@@ -44563,17 +44669,14 @@
     "CVE-2019-17495": [
         "https://github.com/SecT0uch/CVE-2019-17495-test"
     ],
-    "CVE-2019-17501": [],
     "CVE-2019-17525": [
         "https://github.com/huzaifahussain98/CVE-2019-17525"
-    ],
-    "CVE-2019-17557": [
-        "https://securitylab.github.com/advisories/GHSL-2020-055-apache-syncope"
     ],
     "CVE-2019-17558": [
         "https://github.com/SDNDTeam/CVE-2019-17558_Solr_Vul_Tool",
         "https://github.com/gsheller/Solr_CVE-2019-17558",
-        "https://github.com/hunter-404/Solr-CVE-2019-17558",
+        "https://github.com/itsdafafo/Exploit_CVE-2019-17558-RCE",
+        "https://github.com/pan3a/Solr-CVE-2019-17558",
         "https://github.com/zhzyker/exphub",
         "https://raw.githubusercontent.com/1N3/Sn1per/master/templates/active/CVE-2019-17558_-_Apache_Solr_RCE.sh",
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/solr-rce-cve-2019-17558.yaml",
@@ -44639,11 +44742,11 @@
     "CVE-2019-18634": [
         "https://github.com/N1et/CVE-2019-18634",
         "https://github.com/Plazmaz/CVE-2019-18634",
-        "https://github.com/jeandelboux/CVE-2019-18634",
         "https://github.com/ptef/CVE-2019-18634",
         "https://github.com/saleemrashid/sudo-cve-2019-18634"
     ],
     "CVE-2019-18652": [
+        "https://gitlab.com/crypt0crc/cve-2019-18652",
         "https://gitlab.com/crypt0crc/cve-2019-18652"
     ],
     "CVE-2019-18683": [
@@ -44736,10 +44839,7 @@
         "https://github.com/jra89/CVE-2019-19511"
     ],
     "CVE-2019-19520": [
-        "https://github.com/retrymp3/OpenBSD-CVE-2019-19520-CVE-2019-19522"
-    ],
-    "CVE-2019-19522": [
-        "https://github.com/retrymp3/OpenBSD-CVE-2019-19522"
+        "https://github.com/retrymp3/Openbsd-Privilege-Escalation"
     ],
     "CVE-2019-19550": [
         "https://github.com/underprotection/CVE-2019-19550"
@@ -44754,9 +44854,11 @@
         "https://github.com/jra89/CVE-2019-19634"
     ],
     "CVE-2019-19649": [
+        "https://gitlab.com/eLeN3Re/CVE-2019-19649",
         "https://gitlab.com/eLeN3Re/CVE-2019-19649"
     ],
     "CVE-2019-19650": [
+        "https://gitlab.com/eLeN3Re/CVE-2019-19650",
         "https://gitlab.com/eLeN3Re/CVE-2019-19650"
     ],
     "CVE-2019-19651": [
@@ -44856,9 +44958,11 @@
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/citrix_dir_traversal_rce.rb"
     ],
     "CVE-2019-19799": [
+        "https://gitlab.com/eLeN3Re/cve-2019-19799",
         "https://gitlab.com/eLeN3Re/cve-2019-19799"
     ],
     "CVE-2019-19800": [
+        "https://gitlab.com/eLeN3Re/CVE-2019-19800",
         "https://gitlab.com/eLeN3Re/CVE-2019-19800"
     ],
     "CVE-2019-19833": [
@@ -44921,6 +45025,9 @@
     "CVE-2019-20326": [
         "https://github.com/Fysac/CVE-2019-20326"
     ],
+    "CVE-2019-20361": [
+        "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/auxiliary/scanner/http/wp_email_sub_news_sqli.rb"
+    ],
     "CVE-2019-20499": [
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/dlink_dwl_2600_command_injection.rb"
     ],
@@ -44944,6 +45051,7 @@
         "https://github.com/raystyle/CVE-2019-2215",
         "https://github.com/sharif-dev/AndroidKernelVulnerability",
         "https://github.com/timwr/CVE-2019-2215",
+        "https://gitlab.com/ntkernel/CVE-2019-2215",
         "https://gitlab.com/ntkernel/CVE-2019-2215",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/android/local/binder_uaf.rb"
     ],
@@ -45135,7 +45243,6 @@
         "https://github.com/takeokunn/CVE-2019-5418",
         "https://github.com/ztgrace/CVE-2019-5418-Rails3",
         "https://raw.githubusercontent.com/1N3/Sn1per/master/templates/active/CVE-2019-5418_-_Rail_File_Content_Disclosure.sh",
-        "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/rails-cve-2019-5418.yaml",
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/rails-info-leak-cve-2019-5418.yaml",
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2019-5418.yaml",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/auxiliary/gather/rails_doubletap_file_read.rb",
@@ -45147,12 +45254,22 @@
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/http/rails_double_tap.rb",
         "https://www.exploit-db.com/raw/46785"
     ],
+    "CVE-2019-5427": [
+        "https://github.com/shanika04/cp30_XXE_partial_fix"
+    ],
+    "CVE-2019-5454": [
+        "https://github.com/shanika04/nextcloud_android"
+    ],
     "CVE-2019-5475": [
         "https://github.com/jaychouzzk/CVE-2019-5475-Nexus-Repository-Manager-",
+        "https://github.com/lyy289065406/CVE-2019-5475",
         "https://github.com/rabbitmask/CVE-2019-5475-EXP"
     ],
     "CVE-2019-5489": [
         "https://github.com/mmxsrup/CVE-2019-5489"
+    ],
+    "CVE-2019-5544": [
+        "https://github.com/HynekPetrak/CVE-2019-5544_CVE-2020-3992"
     ],
     "CVE-2019-5624": [
         "https://github.com/VoidSec/CVE-2019-5624"
@@ -45297,7 +45414,6 @@
     "CVE-2019-6329": [
         "https://github.com/ManhNDd/CVE-2019-6329"
     ],
-    "CVE-2019-6339": [],
     "CVE-2019-6340": [
         "https://github.com/DevDungeon/CVE-2019-6340-Drupal-8.6.9-REST-Auth-Bypass",
         "https://github.com/cved-sources/cve-2019-6340",
@@ -45307,12 +45423,12 @@
         "https://github.com/knqyf263/CVE-2019-6340",
         "https://github.com/ludy-dev/drupal8-REST-RCE",
         "https://github.com/oways/CVE-2019-6340",
+        "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2019-6340.yaml",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/unix/webapp/drupal_restws_unserialize.rb",
         "https://www.exploit-db.com/raw/46452",
         "https://www.exploit-db.com/raw/46459",
         "https://www.exploit-db.com/raw/46510"
     ],
-    "CVE-2019-6341": [],
     "CVE-2019-6440": [
         "https://github.com/hexnone/CVE-2019-6440"
     ],
@@ -45530,6 +45646,8 @@
     "CVE-2019-8449": [
         "https://github.com/mufeedvh/CVE-2019-8449",
         "https://github.com/r0lh/CVE-2019-8449",
+        "https://gitlab.com/r0lh/CVE-2019-8449",
+        "https://gitlab.com/r0lh/CVE-2019-8449",
         "https://gitlab.com/r0lh/CVE-2019-8449",
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/jira-info-leak-cve-2019-8449.yaml",
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2019-8449.yaml"
@@ -45762,7 +45880,7 @@
     ],
     "CVE-2019-9733": [
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/artifactory-improper-authorization-cve-2019-9733.yaml",
-        "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/cve-2019-9733.yaml"
+        "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2019-9733.yaml"
     ],
     "CVE-2019-9745": [
         "https://github.com/KPN-CISO/CVE-2019-9745"
@@ -45833,6 +45951,7 @@
         "https://github.com/tea9/CVE-2020-0014-Toast"
     ],
     "CVE-2020-0022": [
+        "https://github.com/5k1l/cve-2020-0022",
         "https://github.com/Polo35/CVE-2020-0022",
         "https://github.com/leommxj/cve-2020-0022",
         "https://github.com/marcinguy/CVE-2020-0022"
@@ -45849,18 +45968,6 @@
         "https://github.com/quarkslab/CVE-2020-0069_poc",
         "https://github.com/yanglingxi1993/CVE-2020-0069"
     ],
-    "CVE-2020-0070": [
-        "https://securitylab.github.com/advisories/GHSL-2020-010-aosp"
-    ],
-    "CVE-2020-0071": [
-        "https://securitylab.github.com/advisories/GHSL-2020-008-aosp"
-    ],
-    "CVE-2020-0072": [
-        "https://securitylab.github.com/advisories/GHSL-2020-007-aosp"
-    ],
-    "CVE-2020-0073": [
-        "https://securitylab.github.com/advisories/GHSL-2020-006-aosp"
-    ],
     "CVE-2020-0096": [
         "https://github.com/liuyun201990/StrandHogg2",
         "https://github.com/tea9/CVE-2020-0096-StrandHogg2",
@@ -45868,6 +45975,9 @@
     ],
     "CVE-2020-0108": [
         "https://github.com/CrackerCat/ServiceCheater"
+    ],
+    "CVE-2020-0113": [
+        "https://github.com/XDo0/ServiceCheater"
     ],
     "CVE-2020-0114": [
         "https://github.com/tea9/CVE-2020-0114-systemui"
@@ -45894,7 +46004,6 @@
         "https://github.com/IIICTECH/-CVE-2020-0601-ECC---EXPLOIT",
         "https://github.com/JPurrier/CVE-2020-0601",
         "https://github.com/MarkusZehnle/CVE-2020-0601",
-        "https://github.com/NishantRanjantech/CVE-2020-0601-spoofkey",
         "https://github.com/RrUZi/Awesome-CVE-2020-0601",
         "https://github.com/ShayNehmad/twoplustwo",
         "https://github.com/SherlockSec/CVE-2020-0601",
@@ -45930,11 +46039,10 @@
     ],
     "CVE-2020-0618": [
         "https://github.com/euphrat1ca/CVE-2020-0618",
-        "https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/windows/http/ssrs_navcorrector_viewstate.rb",
         "https://github.com/wortell/cve-2020-0618",
         "https://raw.githubusercontent.com/1N3/Sn1per/master/templates/active/CVE-2020-0618_-_Remote_Code_Execution_SQL_Server_Reporting_Services.sh",
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/sql-srs-rce-cve-2020-0618.yaml",
-        "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/cve-2020-0618.yaml",
+        "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-0618.yaml",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/http/ssrs_navcorrector_viewstate.rb"
     ],
     "CVE-2020-0624": [
@@ -45988,6 +46096,8 @@
         "https://github.com/afang5472/CVE-2020-0753-and-CVE-2020-0754"
     ],
     "CVE-2020-0787": [
+        "https://github.com/MasterSploit/CVE-2020-0787",
+        "https://github.com/MasterSploit/CVE-2020-0787-BitsArbitraryFileMove-master",
         "https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/local/cve_2020_0787_bits_arbitrary_file_move.rb"
     ],
@@ -46007,6 +46117,7 @@
         "https://github.com/GuoKerS/aioScan_CVE-2020-0796",
         "https://github.com/IAreKyleW00t/SMBGhosts",
         "https://github.com/LabDookhtegan/CVE-2020-0796-EXP",
+        "https://github.com/MasterSploit/LPE---CVE-2020-0796",
         "https://github.com/Rvn0xsy/CVE_2020_0796_CNA",
         "https://github.com/T13nn3s/CVE-2020-0796",
         "https://github.com/TinToSer/CVE-2020-0796-LPE",
@@ -46036,6 +46147,7 @@
         "https://github.com/jiansiting/CVE-2020-0796-Scanner",
         "https://github.com/joaozietolie/CVE-2020-0796-Checker",
         "https://github.com/julixsalas/CVE-2020-0796",
+        "https://github.com/k8gege/PyLadon",
         "https://github.com/kn6869610/CVE-2020-0796",
         "https://github.com/laolisafe/CVE-2020-0796",
         "https://github.com/marcinguy/CVE-2020-0796",
@@ -46043,6 +46155,7 @@
         "https://github.com/netscylla/SMBGhost",
         "https://github.com/ollypwn/SMBGhost",
         "https://github.com/plorinquer/cve-2020-0796",
+        "https://github.com/ran-sama/CVE-2020-0796",
         "https://github.com/rsmudge/CVE-2020-0796-BOF",
         "https://github.com/section-c/CVE-2020-0796",
         "https://github.com/sujitawake/smbghost",
@@ -46059,9 +46172,19 @@
         "https://github.com/ysyyrps123/CVE-2020-0796",
         "https://github.com/ysyyrps123/CVE-2020-0796-exp",
         "https://gitlab.com/darthploit/CVE-2020-0796",
+        "https://gitlab.com/darthploit/CVE-2020-0796",
+        "https://gitlab.com/darthploit/CVE-2020-0796",
+        "https://gitlab.com/darthploit/CVE-2020-0796-POC",
+        "https://gitlab.com/darthploit/CVE-2020-0796-POC",
         "https://gitlab.com/darthploit/CVE-2020-0796-POC",
         "https://gitlab.com/gavz/CVE-2020-0796",
+        "https://gitlab.com/gavz/CVE-2020-0796",
+        "https://gitlab.com/gavz/CVE-2020-0796",
         "https://gitlab.com/gavz/CVE-2020-0796-POC",
+        "https://gitlab.com/gavz/CVE-2020-0796-POC",
+        "https://gitlab.com/gavz/CVE-2020-0796-POC",
+        "https://gitlab.com/ran-sama/cve-2020-0796",
+        "https://gitlab.com/ran-sama/cve-2020-0796",
         "https://gitlab.com/ran-sama/cve-2020-0796",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/local/cve_2020_0796_smbghost.rb"
     ],
@@ -46079,6 +46202,9 @@
     ],
     "CVE-2020-0976": [
         "https://github.com/ericzhong2010/GUI-Check-CVE-2020-0976"
+    ],
+    "CVE-2020-1": [
+        "https://github.com/full-disclosure/FDEU-CVE-2020-1FC5"
     ],
     "CVE-2020-10135": [
         "https://github.com/marcinguy/CVE-2020-10135-BIAS"
@@ -46117,6 +46243,9 @@
     "CVE-2020-10239": [
         "https://github.com/HoangKien1020/CVE-2020-10239"
     ],
+    "CVE-2020-1034": [
+        "https://github.com/yardenshafir/CVE-2020-1034"
+    ],
     "CVE-2020-1048": [
         "https://github.com/Ken-Abruzzi/CVE-2020-1048",
         "https://github.com/shubham0d/CVE-2020-1048",
@@ -46127,7 +46256,8 @@
         "https://github.com/0xeb-bp/cve-2020-1054",
         "https://github.com/Graham382/CVE-2020-1054",
         "https://github.com/Iamgublin/CVE-2020-1054",
-        "https://github.com/KaLendsi/CVE-2020-1054"
+        "https://github.com/KaLendsi/CVE-2020-1054",
+        "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/local/cve_2020_1054_drawiconex_lpe.rb"
     ],
     "CVE-2020-10558": [
         "https://github.com/nuzzl/CVE-2020-10558"
@@ -46152,9 +46282,6 @@
         "https://github.com/0nise/CVE-2020-10673",
         "https://github.com/Al1ex/CVE-2020-10673"
     ],
-    "CVE-2020-10693": [
-        "https://securitylab.github.com/advisories/GHSL-2020-020-hibernate-validator"
-    ],
     "CVE-2020-10713": [
         "https://github.com/eclypsium/BootHole"
     ],
@@ -46168,6 +46295,8 @@
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/vestacp_exec.rb"
     ],
     "CVE-2020-10816": [
+        "https://gitlab.com/eLeN3Re/CVE-2020-10816",
+        "https://gitlab.com/eLeN3Re/CVE-2020-10816",
         "https://gitlab.com/eLeN3Re/CVE-2020-10816"
     ],
     "CVE-2020-10882": [
@@ -46191,6 +46320,11 @@
     "CVE-2020-10924": [
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/auxiliary/admin/http/netgear_r6700_pass_reset.rb"
     ],
+    "CVE-2020-10977": [
+        "https://github.com/JustMichi/CVE-2020-10977.py",
+        "https://github.com/thewhiteh4t/cve-2020-10977",
+        "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/http/gitlab_file_read_rce.rb"
+    ],
     "CVE-2020-1102": [
         "https://github.com/DanielRuf/snyk-js-jquery-565129"
     ],
@@ -46201,23 +46335,9 @@
     "CVE-2020-11076": [
         "https://github.com/dentarg/cougar"
     ],
-    "CVE-2020-11079": [
-        "https://securitylab.github.com/advisories/GHSL-2020-119-node-dns-sync"
-    ],
-    "CVE-2020-11095": [
-        "https://securitylab.github.com/advisories/GHSL-2020-124-FreeRDP"
-    ],
-    "CVE-2020-11096": [
-        "https://securitylab.github.com/advisories/GHSL-2020-107-FreeRDP"
-    ],
-    "CVE-2020-11097": [
-        "https://securitylab.github.com/advisories/GHSL-2020-104-FreeRDP"
-    ],
-    "CVE-2020-11098": [
-        "https://securitylab.github.com/advisories/GHSL-2020-105-FreeRDP"
-    ],
     "CVE-2020-11107": [
-        "https://github.com/S1lkys/CVE-2020-11107"
+        "https://github.com/S1lkys/CVE-2020-11107",
+        "https://github.com/andripwn/CVE-2020-11107"
     ],
     "CVE-2020-11108": [
         "https://github.com/Frichetten/CVE-2020-11108-PoC",
@@ -46268,6 +46388,7 @@
         "https://github.com/0xc0d/CVE-2020-11651",
         "https://github.com/Imanfeng/SaltStack-Exp",
         "https://github.com/RakhithJK/CVE-2020-11651",
+        "https://github.com/appcheck-ng/salt-rce-scanner-CVE-2020-11651-CVE-2020-11652",
         "https://github.com/bravery9/SaltStack-Exp",
         "https://github.com/chef-cft/salt-vulnerabilities",
         "https://github.com/dozernz/cve-2020-11651",
@@ -46287,6 +46408,9 @@
     "CVE-2020-11710": [
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/kong-api-improper-authorization-cve-2020-11710.yaml"
     ],
+    "CVE-2020-11738": [
+        "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-11738.yaml"
+    ],
     "CVE-2020-11794": [
         "https://github.com/w4cky/CVE-2020-11794"
     ],
@@ -46303,11 +46427,11 @@
         "https://github.com/ProjectorBUg/CVE-2020-11932",
         "https://github.com/Staubgeborener/CVE-2020-11932"
     ],
+    "CVE-2020-11975": [
+        "https://github.com/1135/unomi_exploit"
+    ],
     "CVE-2020-11989": [
         "https://github.com/HYWZ36/HYWZ36-CVE-2020-11989-code"
-    ],
-    "CVE-2020-11994": [
-        "https://securitylab.github.com/advisories/GHSL-2020-086-087-088-089-apache-camel"
     ],
     "CVE-2020-11996": [
         "https://github.com/rusakovichma/tomcat-embed-core-9.0.31-CVE-2020-11996"
@@ -46315,8 +46439,14 @@
     "CVE-2020-12004": [
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/scada/inductive_ignition_rce.rb"
     ],
-    "CVE-2020-12049": [
-        "https://securitylab.github.com/advisories/GHSL-2020-057-DBus-DoS-file-descriptor-leak"
+    "CVE-2020-12027": [
+        "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/scada/rockwell_factorytalk_rce.rb"
+    ],
+    "CVE-2020-12028": [
+        "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/scada/rockwell_factorytalk_rce.rb"
+    ],
+    "CVE-2020-12029": [
+        "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/scada/rockwell_factorytalk_rce.rb"
     ],
     "CVE-2020-1206": [
         "https://github.com/Info-Security-Solution-Kolkata/CVE-2020-1206-Exploit",
@@ -46342,21 +46472,12 @@
         "https://raw.githubusercontent.com/1N3/Sn1per/master/templates/active/CVE-2020-12271_-_Sophos_XG_Firewall_Pre-Auth_SQL_Injection.sh",
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/sophos-xg-sqli-cve-2020-12271.yaml"
     ],
-    "CVE-2020-12283": [
-        "https://securitylab.github.com/advisories/GHSL-2020-085-sourcegraph"
-    ],
-    "CVE-2020-12351": [
-        "https://github.com/google/security-research/security/advisories/GHSA-h637-c88j-47wq"
-    ],
     "CVE-2020-12432": [
         "https://github.com/d7x/CVE-2020-12432"
     ],
     "CVE-2020-12629": [
         "https://github.com/mkelepce/CVE-2020-12629",
         "https://www.exploit-db.com/raw/48413"
-    ],
-    "CVE-2020-12668": [
-        "https://securitylab.github.com/advisories/GHSL-2020-072-hubspot_jinjava"
     ],
     "CVE-2020-12688": [
         "https://github.com/TheCyberGeek/Centreon-20.04"
@@ -46402,9 +46523,6 @@
     "CVE-2020-12856": [
         "https://github.com/alwentiu/COVIDSafe-CVE-2020-12856"
     ],
-    "CVE-2020-12873": [
-        "https://securitylab.github.com/advisories/GHSL-2020-039-alfresco"
-    ],
     "CVE-2020-12928": [
         "https://github.com/ekknod/EC_PRO-LAN"
     ],
@@ -46420,9 +46538,11 @@
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/local/cve_2020_1313_system_orchestrator.rb"
     ],
     "CVE-2020-13151": [
-        "https://github.com/b4ny4n/CVE-2020-13151"
+        "https://github.com/b4ny4n/CVE-2020-13151",
+        "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/misc/aerospike_database_udf_cmd_exec.rb"
     ],
     "CVE-2020-13154": [
+        "https://gitlab.com/eLeN3Re/CVE-2020-13154",
         "https://gitlab.com/eLeN3Re/CVE-2020-13154"
     ],
     "CVE-2020-13158": [
@@ -46436,9 +46556,6 @@
     ],
     "CVE-2020-13162": [
         "https://github.com/redtimmy/tu-TOCTOU-kaiu-TOCMEU-CVE-2020-13162-"
-    ],
-    "CVE-2020-13163": [
-        "https://securitylab.github.com/advisories/GHSL-2020-095-conradirwin-em-imap"
     ],
     "CVE-2020-13166": [
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/http/plesk_mylittleadmin_viewstate.rb"
@@ -46478,29 +46595,16 @@
     "CVE-2020-13383": [
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/unix/webapp/opensis_chain_exec.rb"
     ],
-    "CVE-2020-13396": [
-        "https://securitylab.github.com/advisories/GHSL-2020-100-FreeRDP"
-    ],
-    "CVE-2020-13397": [
-        "https://securitylab.github.com/advisories/GHSL-2020-101-FreeRDP"
-    ],
-    "CVE-2020-13398": [
-        "https://securitylab.github.com/advisories/GHSL-2020-102-FreeRDP"
-    ],
     "CVE-2020-13424": [
         "https://github.com/mkelepce/CVE-2020-13424"
     ],
     "CVE-2020-13437": [
+        "https://gitlab.com/tmpacvn/cve-2020-13437",
+        "https://gitlab.com/tmpacvn/cve-2020-13437",
         "https://gitlab.com/tmpacvn/cve-2020-13437"
-    ],
-    "CVE-2020-13445": [
-        "https://securitylab.github.com/advisories/GHSL-2020-043-liferay_ce"
     ],
     "CVE-2020-13457": [
         "https://github.com/alt3kx/CVE-2020-13457"
-    ],
-    "CVE-2020-13482": [
-        "https://securitylab.github.com/advisories/GHSL-2020-094-igrigorik-em-http-request"
     ],
     "CVE-2020-1349": [
         "https://github.com/0neb1n/CVE-2020-1349"
@@ -46558,21 +46662,27 @@
     ],
     "CVE-2020-13933": [
         "https://github.com/0xkami/cve-2020-13933",
-        "https://github.com/Kamimuka/cve-2020-13933",
         "https://github.com/lyy289065406/CVE-2020-13933"
     ],
     "CVE-2020-13935": [
         "https://github.com/RedTeamPentesting/CVE-2020-13935"
     ],
     "CVE-2020-13942": [
+        "https://github.com/blackmarketer/CVE-2020-13942",
         "https://github.com/eugenebmx/CVE-2020-13942",
         "https://github.com/lp008/CVE-2020-13942",
+        "https://github.com/shifa123/CVE-2020-13942-POC-",
+        "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/apache-unomi-rce-cve-2020-13942.yaml",
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-13942.yaml"
+    ],
+    "CVE-2020-13957": [
+        "https://github.com/MagicPiperSec/xray-poc-cve-2020-13957"
     ],
     "CVE-2020-13996": [
         "https://github.com/mkelepce/CVE-2020-13996"
     ],
     "CVE-2020-14048": [
+        "https://gitlab.com/eLeN3Re/CVE-2020-14048",
         "https://gitlab.com/eLeN3Re/CVE-2020-14048"
     ],
     "CVE-2020-14064": [
@@ -46595,8 +46705,7 @@
         "https://github.com/Rival420/CVE-2020-14181",
         "https://raw.githubusercontent.com/1N3/Sn1per/master/templates/active/CVE-2020-14181_-_User_Enumeration_Via_Insecure_Jira_Endpoint.sh",
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/jira-user-enumeration-cve-2020-14181.yaml",
-        "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-14181.yaml",
-        "https://twitter.com/ptswarm/status/1318914772918767619"
+        "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-14181.yaml"
     ],
     "CVE-2020-14195": [
         "https://github.com/Al1ex/CVE-2020-14195"
@@ -46616,13 +46725,11 @@
     "CVE-2020-14321": [
         "https://github.com/HoangKien1020/CVE-2020-14321"
     ],
-    "CVE-2020-14343": [],
     "CVE-2020-14386": [
         "https://github.com/cgwalters/cve-2020-14386"
     ],
     "CVE-2020-14644": [
-        "https://github.com/0xkami/cve-2020-14644",
-        "https://github.com/Kamimuka/cve-2020-14644"
+        "https://github.com/0xkami/cve-2020-14644"
     ],
     "CVE-2020-14645": [
         "https://github.com/ChenZIDu/CVE-2020-14645",
@@ -46640,7 +46747,6 @@
         "https://github.com/Fa1c0n35/CVE-2020-1472-02-",
         "https://github.com/Fa1c0n35/SecuraBV-CVE-2020-1472",
         "https://github.com/JayP232/The_big_Zero",
-        "https://github.com/Kamimuka/CVE-2020-1472",
         "https://github.com/Ken-Abruzzi/cve-2020-1472",
         "https://github.com/NAXG/CVE-2020-1472",
         "https://github.com/Privia-Security/ADZero",
@@ -46678,6 +46784,8 @@
         "https://github.com/zeronetworks/zerologon",
         "https://gitlab.com/NdFeB/zer0dump-installer",
         "https://gitlab.com/darthploit/CVE-2020-1472",
+        "https://gitlab.com/darthploit/CVE-2020-1472",
+        "https://gitlab.com/we88c0de/CVE-2020-1472",
         "https://gitlab.com/we88c0de/CVE-2020-1472",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/auxiliary/admin/dcerpc/cve_2020_1472_zerologon.rb"
     ],
@@ -46687,24 +46795,22 @@
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/oracle-weblogic-console-auth-bypass-cve-2020-14750.yaml",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/http/weblogic_admin_handle_rce.rb"
     ],
-    "CVE-2020-14815": [
-        "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-14815.yaml"
-    ],
     "CVE-2020-14864": [
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-14864.yaml"
     ],
+    "CVE-2020-14871": [
+        "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/solaris/ssh/pam_username_bof.rb"
+    ],
     "CVE-2020-14882": [
-        "https://github.com//jas502n//CVE-2020-14882",
         "https://github.com/0thm4n3/cve-2020-14882",
         "https://github.com/AirEvan/CVE-2020-14882-GUI-Test",
         "https://github.com/BabyTeam1024/CVE-2020-14882",
-        "https://github.com/GGyao/CVE-2020-14882",
         "https://github.com/GGyao/CVE-2020-14882_ALL",
         "https://github.com/GGyao/CVE-2020-14882_POC",
         "https://github.com/NS-Sp4ce/CVE-2020-14882",
         "https://github.com/QmF0c3UK/CVE-2020-14882",
         "https://github.com/RedTeamWing/CVE-2020-14882",
-        "https://github.com/Umarovm/McMaster-University-0-day-Blind-Command-Injection",
+        "https://github.com/Umarovm/-Patched-McMaster-University-Blind-Command-Injection",
         "https://github.com/alexfrancow/CVE-2020-14882",
         "https://github.com/corelight/CVE-2020-14882-weblogicRCE",
         "https://github.com/jas502n/CVE-2020-14882",
@@ -46743,11 +46849,17 @@
         "https://github.com/y5s5k5/CVE-2020-14955"
     ],
     "CVE-2020-14957": [
-        "https://github.com/y5s5k5/CVE-2020-14957-CVE-2020-14956"
+        "https://github.com/y5s5k5/CVE-2020-14957"
     ],
-    "CVE-2020-14961": [],
     "CVE-2020-14965": [
         "https://github.com/g-rubert/CVE-2020-14965"
+    ],
+    "CVE-2020-15002": [
+        "https://github.com/skr0x1c0/Blind-SSRF-CVE-2020-15002",
+        "https://github.com/skr0x1c0/SSRF-CVE-2020-15002"
+    ],
+    "CVE-2020-15004": [
+        "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/ox-app-suite-xss-cve-2020-15004.yaml"
     ],
     "CVE-2020-15051": [
         "https://github.com/pratikshad19/CVE-2020-15051"
@@ -46761,19 +46873,14 @@
     "CVE-2020-15129": [
         "https://raw.githubusercontent.com/1N3/Sn1per/master/templates/active/CVE-2020-15129_-_Open_Redirect_In_Traefik.sh",
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/traefik-open-redirect-cve-2020-15129.yaml",
-        "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-15129.yaml",
-        "https://securitylab.github.com/advisories/GHSL-2020-140-Containous-Traefik"
+        "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-15129.yaml"
     ],
     "CVE-2020-15148": [
         "https://github.com/0xkami/cve-2020-15148",
-        "https://github.com/Kamimuka/cve-2020-15148",
         "https://github.com/Maskhe/CVE-2020-15148-bypasses"
     ],
     "CVE-2020-15169": [
         "https://github.com/glasses618/CVE-2020-15169"
-    ],
-    "CVE-2020-15174": [
-        "https://www.youtube.com/watch?v=0f3RrvC-zGI"
     ],
     "CVE-2020-15227": [
         "https://github.com/Langriklol/CVE-2020-15227",
@@ -46799,8 +46906,6 @@
         "https://github.com/patrickhener/CVE-2020-15492"
     ],
     "CVE-2020-15505": [
-        "https://github.com/iamnoooob/CVE-Reverse/tree/master/CVE-2020-15505",
-        "https://github.com/welk1n/JNDI-Injection-Exploit",
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/mobileiron-rce-cve-2020-15505.yaml",
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-15505.yaml"
     ],
@@ -46826,8 +46931,7 @@
         "https://github.com/megamagnus/cve-2020-15956"
     ],
     "CVE-2020-15999": [
-        "https://github.com/marcinguy/CVE-2020-15999",
-        "https://savannah.nongnu.org/bugs/?59308"
+        "https://github.com/marcinguy/CVE-2020-15999"
     ],
     "CVE-2020-1611": [
         "https://github.com/Ibonok/CVE-2020-1611"
@@ -46857,24 +46961,18 @@
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/olimpoks-xss-cve-2020-16270.yaml"
     ],
     "CVE-2020-16846": [
-        "https://github.com/vulhub/vulhub/tree/master/saltstack/CVE-2020-16846",
+        "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/saltstack-rce-cve-2020-16846.yaml",
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-16846.yaml",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/saltstack_salt_api_cmd_exec.rb"
     ],
     "CVE-2020-16875": [
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/http/exchange_ecp_dlp_policy.rb"
     ],
-    "CVE-2020-16889": [
-        "https://github.com/nghiadt1098/MyResearch/blob/main/CVE-2020-16889/poc.cpp"
-    ],
     "CVE-2020-16898": [
-        "http://site.pi3.com.pl/exp/p_CVE-2020-16898.py",
         "https://github.com/0xeb-bp/cve-2020-16898",
         "https://github.com/CPO-EH/CVE-2020-16898_Checker",
         "https://github.com/CPO-EH/CVE-2020-16898_Workaround",
-        "https://github.com/Gangana3/bad_neighbor",
         "https://github.com/Maliek/CVE-2020-16898_Check",
-        "https://github.com/Passiv-e/CVE-2020-16898",
         "https://github.com/Passive/CVE-2020-16898",
         "https://github.com/Q1984/CVE-2020-16898",
         "https://github.com/ZephrFish/CVE-2020-16898",
@@ -46883,7 +46981,6 @@
         "https://github.com/esnet-security/cve-2020-16898",
         "https://github.com/initconf/CVE-2020-16898-Bad-Neighbor",
         "https://github.com/jiansiting/cve-2020-16898",
-        "https://github.com/komomon/CVE-2020-16898",
         "https://github.com/komomon/CVE-2020-16898--EXP-POC",
         "https://github.com/komomon/CVE-2020-16898-EXP-POC",
         "https://github.com/momika233/CVE-2020-16898-exp"
@@ -46893,21 +46990,26 @@
         "https://github.com/bkerler/CVE-2020-16899"
     ],
     "CVE-2020-16938": [
-        "https://github.com/ioncodes/CVE-2020-16938",
-        "https://twitter.com/jonasLyk/status/1316104870987010048"
+        "https://github.com/ioncodes/CVE-2020-16938"
     ],
     "CVE-2020-16939": [
         "https://github.com/rogue-kdc/CVE-2020-16939"
     ],
     "CVE-2020-16947": [
-        "https://github.com/0neb1n/CVE-2020-16947"
+        "https://github.com/0neb1n/CVE-2020-16947",
+        "https://github.com/MasterSploit/CVE-2020-16947"
     ],
     "CVE-2020-16952": [
-        "https://github.com/rapid7/metasploit-framework/blob/1a341ae93191ac5f6d8a9603aebb6b3a1f65f107/documentation/modules/exploit/windows/http/sharepoint_ssi_viewstate.md",
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/ms-sharepoint-rce-cve-2020-16952.yaml",
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-16952.yaml",
-        "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/http/sharepoint_ssi_viewstate.rb",
-        "https://srcincite.io/pocs/cve-2020-16952.py.txt"
+        "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/http/sharepoint_ssi_viewstate.rb"
+    ],
+    "CVE-2020-17087": [
+        "https://github.com/revengsh/CVE-2020-17087"
+    ],
+    "CVE-2020-17144": [
+        "https://github.com/Airboi/CVE-2020-17144-EXP",
+        "https://github.com/zcgonvh/CVE-2020-17144"
     ],
     "CVE-2020-17382": [
         "https://github.com/uf0o/CVE-2020-17382"
@@ -46929,6 +47031,12 @@
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-17506.yaml",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/artica_proxy_auth_bypass_service_cmds_peform_command_injection.rb"
     ],
+    "CVE-2020-17530": [
+        "https://github.com/Al1ex/CVE-2020-17530",
+        "https://github.com/fengziHK/CVE-2020-17530-strust2-061",
+        "https://github.com/ka1n4t/CVE-2020-17530",
+        "https://github.com/wuzuowei/CVE-2020-17530"
+    ],
     "CVE-2020-1764": [
         "https://github.com/jpts/cve-2020-1764-poc"
     ],
@@ -46937,6 +47045,7 @@
         "https://github.com/0nise/CVE-2020-1938",
         "https://github.com/DaemonShao/CVE-2020-1938",
         "https://github.com/I-Runtime-Error/CVE-2020-1938",
+        "https://github.com/Just1ceP4rtn3r/CVE-2020-1938-Tool",
         "https://github.com/MateoSec/ghostcatch",
         "https://github.com/Umesh2807/Ghostcat",
         "https://github.com/Zaziki1337/Ghostcat-CVE-2020-1938",
@@ -46951,12 +47060,11 @@
         "https://github.com/nibiwodong/CNVD-2020-10487-Tomcat-ajp-POC",
         "https://github.com/shaunmclernon/ghostcat-verification",
         "https://github.com/sv3nbeast/CVE-2020-1938-Tomact-file_include-file_read",
-        "https://github.com/syncxx/CVE-2020-1938-Tool",
         "https://github.com/w4fz5uck5/CVE-2020-1938-Clean-Version",
         "https://github.com/woaiqiukui/CVE-2020-1938TomcatAjpScanner",
         "https://github.com/xindongzhuaizhuai/CVE-2020-1938",
         "https://github.com/ze0r/GhostCat-LFI-exp",
-        "https://gitlab.com/CaptCrypto/ghostscript"
+        "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/auxiliary/admin/http/tomcat_ghostcat.rb"
     ],
     "CVE-2020-1947": [
         "https://github.com/5l1v3r1/CVE-2020-1947",
@@ -46974,11 +47082,11 @@
     "CVE-2020-1958": [
         "https://github.com/ggolawski/CVE-2020-1958"
     ],
-    "CVE-2020-1959": [
-        "https://securitylab.github.com/advisories/GHSL-2020-029-apache-syncope"
-    ],
     "CVE-2020-1967": [
         "https://github.com/irsl/CVE-2020-1967"
+    ],
+    "CVE-2020-1971": [
+        "https://github.com/MBHudson/CVE-2020-1971"
     ],
     "CVE-2020-1983": [
         "https://github.com/wuzuowei/CVE-2020-1983"
@@ -47007,11 +47115,38 @@
     "CVE-2020-2333": [
         "https://github.com/section-c/CVE-2020-2333"
     ],
+    "CVE-2020-23489": [
+        "https://github.com/ahussam/AVideo3xploit"
+    ],
+    "CVE-2020-23726": [
+        "https://github.com/y5s5k5/CVE-2020-23726"
+    ],
+    "CVE-2020-23727": [
+        "https://github.com/y5s5k5/CVE-2020-23727"
+    ],
+    "CVE-2020-23735": [
+        "https://github.com/y5s5k5/CVE-2020-23735"
+    ],
+    "CVE-2020-23736": [
+        "https://github.com/y5s5k5/CVE-2020-23736"
+    ],
+    "CVE-2020-23738": [
+        "https://github.com/y5s5k5/CVE-2020-23738"
+    ],
+    "CVE-2020-23740": [
+        "https://github.com/y5s5k5/CVE-2020-23740"
+    ],
+    "CVE-2020-23741": [
+        "https://github.com/y5s5k5/CVE-2020-23741"
+    ],
     "CVE-2020-23835": [
         "https://www.exploit-db.com/raw/48813"
     ],
     "CVE-2020-23968": [
         "https://github.com/ricardojba/CVE-2020-23968-ILEX-SignGo-EoP"
+    ],
+    "CVE-2020-23972": [
+        "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-23972.yaml"
     ],
     "CVE-2020-24028": [
         "https://github.com/underprotection/CVE-2020-24028"
@@ -47030,15 +47165,12 @@
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/mara-cms-reflective-xss-cve-2020-24223.yaml",
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-24223.yaml"
     ],
+    "CVE-2020-24227": [
+        "https://github.com/nathunandwani/CVE-2020-24227"
+    ],
     "CVE-2020-24312": [
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/wordpress-backup-leak-cve-2020-24312.yaml",
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-24312.yaml"
-    ],
-    "CVE-2020-24392": [
-        "https://securitylab.github.com/advisories/GHSL-2020-097-voloko-twitter-stream"
-    ],
-    "CVE-2020-24393": [
-        "https://securitylab.github.com/advisories/GHSL-2020-096-tweetstream-tweetstream"
     ],
     "CVE-2020-24572": [
         "https://github.com/lb0x/cve-2020-24572"
@@ -47050,18 +47182,11 @@
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/savsoft-quiz-stored-xss-cve-2020-24609.yaml"
     ],
     "CVE-2020-24616": [
-        "https://github.com/0xkami/cve-2020-24616-poc",
-        "https://github.com/Kamimuka/cve-2020-24616-poc"
-    ],
-    "CVE-2020-24617": [
-        "https://securitylab.github.com/advisories/GHSL-2020-132-Mailtrain"
+        "https://github.com/0xkami/cve-2020-24616-poc"
     ],
     "CVE-2020-24765": [
         "https://github.com/trump88/CVE-2020-24765",
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/imind-server-info-leak-cve-2020-24765.yaml"
-    ],
-    "CVE-2020-24771": [
-        "https://github.com/qlh831/CVE-2020-24771"
     ],
     "CVE-2020-24955": [
         "https://github.com/b1nary0x1/CVE-2020-24955"
@@ -47080,6 +47205,9 @@
         "https://raw.githubusercontent.com/1N3/Sn1per/master/templates/active/CVE-2020-25213_-_WP_File_Manager_File_Upload.sh",
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/wordpress-file-upload-cve-2020-25213.yaml",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/http/wp_file_manager_rce.rb"
+    ],
+    "CVE-2020-25265": [
+        "https://github.com/refi64/CVE-2020-25265-25266"
     ],
     "CVE-2020-25270": [
         "https://github.com/Ko-kn3t/CVE-2020-25270"
@@ -47131,7 +47259,6 @@
         "https://github.com/g-rubert/wordpress_DoS"
     ],
     "CVE-2020-25540": [
-        "https://github.com/ChaoYangDongYongGuaiGe/CVE-2020-25540",
         "https://github.com/Schira4396/CVE-2020-25540",
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/thinkadmin-path-traversal-cve-2020-25540.yaml",
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-25540.yaml"
@@ -47148,6 +47275,9 @@
     ],
     "CVE-2020-25592": [
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/saltstack_salt_api_cmd_exec.rb"
+    ],
+    "CVE-2020-25637": [
+        "https://github.com/brahmiboudjema/CVE-2020-25637-libvirt-double-free"
     ],
     "CVE-2020-25705": [
         "https://github.com/tdwyer/CVE-2020-25705"
@@ -47174,11 +47304,17 @@
     "CVE-2020-26061": [
         "https://github.com/missing0x00/CVE-2020-26061"
     ],
+    "CVE-2020-26124": [
+        "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/unix/webapp/openmediavault_rpc_rce.rb"
+    ],
     "CVE-2020-26214": [
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-26214.yaml"
     ],
-    "CVE-2020-26524": [
-        "https://github.com/lukaszstu/filecloud-UE-CVE-2020-26524"
+    "CVE-2020-26217": [
+        "https://github.com/novysodope/CVE-2020-26217-XStream-RCE-POC"
+    ],
+    "CVE-2020-26259": [
+        "https://github.com/jas502n/CVE-2020-26259"
     ],
     "CVE-2020-26525": [
         "https://github.com/lukaszstu/SmartAsset-SQLinj-CVE-2020-26525"
@@ -47192,6 +47328,12 @@
     "CVE-2020-2655": [
         "https://github.com/RUB-NDS/CVE-2020-2655-DemoServer"
     ],
+    "CVE-2020-27151": [
+        "https://github.com/kata-containers/runtime-CVE-2020-27151"
+    ],
+    "CVE-2020-27190": [
+        "https://github.com/qlh831/x-CVE-2020-27190"
+    ],
     "CVE-2020-27194": [
         "https://github.com/willinin/CVE-2020-27194-exp",
         "https://github.com/xmzyshypnc/CVE-2020-27194"
@@ -47202,8 +47344,8 @@
     "CVE-2020-27358": [
         "https://github.com/seb1055/cve-2020-27358-27359"
     ],
-    "CVE-2020-27359": [
-        "https://github.com/seb1055/cve-2020-27358-27359"
+    "CVE-2020-27386": [
+        "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/http/flexdotnetcms_upload_exec.rb"
     ],
     "CVE-2020-27387": [
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/http/horizontcms_upload_exec.rb"
@@ -47220,9 +47362,18 @@
     "CVE-2020-27747": [
         "https://github.com/jet-pentest/CVE-2020-27747"
     ],
+    "CVE-2020-27949": [
+        "https://github.com/seemoo-lab/dtrace-memaccess_cve-2020-27949"
+    ],
+    "CVE-2020-27950": [
+        "https://github.com/synacktiv/CVE-2020-27950"
+    ],
     "CVE-2020-27955": [
         "https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955",
-        "https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955-Go"
+        "https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955-Go",
+        "https://github.com/WizZYou/git-lfs-RCE-exploit-CVE-2020-27955-revshell",
+        "https://github.com/r00t4dm/CVE-2020-27955",
+        "https://github.com/yhsung/cve-2020-27955-poc"
     ],
     "CVE-2020-27976": [
         "https://github.com/k0rnh0li0/CVE-2020-27976"
@@ -47230,8 +47381,14 @@
     "CVE-2020-28054": [
         "https://github.com/VoidSec/Tivoli-Madness"
     ],
+    "CVE-2020-28175": [
+        "https://github.com/y5s5k5/CVE-2020-28175"
+    ],
     "CVE-2020-28328": [
         "https://github.com/mcorybillington/SuiteCRM-RCE"
+    ],
+    "CVE-2020-28347": [
+        "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/misc/tplink_archer_a7_c7_lan_rce.rb"
     ],
     "CVE-2020-28351": [
         "https://github.com/dievus/CVE-2020-28351"
@@ -47243,12 +47400,37 @@
         "https://github.com/jet-pentest/CVE-2020-28415"
     ],
     "CVE-2020-2883": [
+        "https://github.com/Al1ex/CVE-2020-2883",
         "https://github.com/FancyDoesSecurity/CVE-2020-2883",
         "https://github.com/MagicZer0/Weblogic_CVE-2020-2883_POC",
         "https://github.com/Y4er/CVE-2020-2883",
         "https://github.com/Y4er/WebLogic-Shiro-shell",
         "https://github.com/ZZZWD/CVE-2020-2883",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/misc/weblogic_deserialize_badattr_extcomp.rb"
+    ],
+    "CVE-2020-28948": [
+        "https://github.com/0x240x23elu/CVE-2020-28948-and-CVE-2020-28949"
+    ],
+    "CVE-2020-29007": [
+        "https://github.com/seqred-s-a/cve-2020-29007"
+    ],
+    "CVE-2020-29070": [
+        "https://github.com/aslanemre/cve-2020-29070"
+    ],
+    "CVE-2020-29254": [
+        "https://github.com/S1lkys/CVE-2020-29254"
+    ],
+    "CVE-2020-29364": [
+        "https://github.com/aslanemre/CVE-2020-29364"
+    ],
+    "CVE-2020-29666": [
+        "https://github.com/jet-pentest/CVE-2020-29666"
+    ],
+    "CVE-2020-29667": [
+        "https://github.com/jet-pentest/CVE-2020-29667"
+    ],
+    "CVE-2020-29669": [
+        "https://github.com/code-byter/CVE-2020-29669"
     ],
     "CVE-2020-3153": [
         "https://github.com/goichot/CVE-2020-3153",
@@ -47257,7 +47439,7 @@
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/local/anyconnect_lpe.rb"
     ],
     "CVE-2020-3187": [
-        "https://github.com/Basu-banakar/CVE-2020-3187",
+        "https://github.com/Ph4nt0m-b/CVE-2020-3187",
         "https://github.com/pry0cc/CVE-2020-3187",
         "https://raw.githubusercontent.com/1N3/Sn1per/master/templates/active/CVE-2020-3187_-_Citrix_Unauthenticated_File_Deletion.sh",
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/cisco-asa-path-traversal-cve-2020-3187.yaml",
@@ -47276,11 +47458,11 @@
     "CVE-2020-3452": [
         "https://github.com/0x5ECF4ULT/CVE-2020-3452",
         "https://github.com/3ndG4me/CVE-2020-3452-Exploit",
-        "https://github.com/3ndG4me/CVE-2020-3452-Scanner",
         "https://github.com/Gh0st0ne/http-vuln-cve2020-3452.nse",
         "https://github.com/Loneyers/cve-2020-3452",
         "https://github.com/PR3R00T/CVE-2020-3452-Cisco-Scanner",
         "https://github.com/XDev05/CVE-2020-3452-PoC",
+        "https://github.com/cygenta/CVE-2020-3452",
         "https://github.com/foulenzer/CVE-2020-3452",
         "https://github.com/grim3/CVE-2020-3452",
         "https://github.com/ludy-dev/Cisco-ASA-LFI",
@@ -47314,23 +47496,14 @@
     "CVE-2020-3956": [
         "https://github.com/aaronsvk/CVE-2020-3956"
     ],
-    "CVE-2020-4027": [
-        "https://securitylab.github.com/advisories/GHSL-2020-045-atlassian_confluence"
-    ],
-    "CVE-2020-4030": [
-        "https://securitylab.github.com/advisories/GHSL-2020-106-FreeRDP"
-    ],
-    "CVE-2020-4033": [
-        "https://securitylab.github.com/advisories/GHSL-2020-128-FreeRDP"
+    "CVE-2020-3992": [
+        "https://github.com/HynekPetrak/CVE-2019-5544_CVE-2020-3992"
     ],
     "CVE-2020-4038": [
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/graphql-playround-xss-cve-2020-4038.yaml"
     ],
     "CVE-2020-4040": [
         "https://github.com/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041"
-    ],
-    "CVE-2020-4066": [
-        "https://securitylab.github.com/advisories/GHSL-2020-113-limdu"
     ],
     "CVE-2020-4276": [
         "https://github.com/mekoko/CVE-2020-4276"
@@ -47348,7 +47521,8 @@
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/ssh/ibm_drm_a3user.rb"
     ],
     "CVE-2020-4463": [
-        "https://github.com/Ibonok/CVE-2020-4463"
+        "https://github.com/Ibonok/CVE-2020-4463",
+        "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-4463.yaml"
     ],
     "CVE-2020-5183": [
         "https://www.exploit-db.com/raw/47871"
@@ -47357,7 +47531,7 @@
         "https://github.com/motikan2010/CVE-2020-5236"
     ],
     "CVE-2020-5248": [
-        "https://github.com/devious-way/CVE-2020-5248"
+        "https://github.com/indevi0us/CVE-2020-5248"
     ],
     "CVE-2020-5250": [
         "https://github.com/drkbcn/lblfixer_cve2020_5250"
@@ -47417,6 +47591,9 @@
     "CVE-2020-5741": [
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/http/plex_unpickle_dict_rce.rb"
     ],
+    "CVE-2020-5752": [
+        "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/windows/local/druva_insync_insynccphwnet64_rcp_type_5_priv_esc.rb"
+    ],
     "CVE-2020-5776": [
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-5776.yaml"
     ],
@@ -47456,7 +47633,6 @@
         "https://github.com/ajdumanhug/CVE-2020-5902",
         "https://github.com/aqhmal/CVE-2020-5902-Scanner",
         "https://github.com/ar0dd/CVE-2020-5902",
-        "https://github.com/corelight-ricky/CVE-2020-5902-F5BigIP",
         "https://github.com/corelight/CVE-2020-5902-F5BigIP",
         "https://github.com/cristiano-corrado/f5_scanner",
         "https://github.com/cybersecurityworks553/scanner-CVE-2020-5902",
@@ -47488,13 +47664,10 @@
         "https://github.com/superzerosec/cve-2020-5902",
         "https://github.com/sv3nbeast/CVE-2020-5902_RCE",
         "https://github.com/theLSA/f5-bigip-rce-cve-2020-5902",
-        "https://github.com/tom0li/CVE-2020-5902",
-        "https://github.com/tututu12138/CVE-2020-5902",
         "https://github.com/wdlid/CVE-2020-5902-fix",
         "https://github.com/yasserjanah/CVE-2020-5902",
         "https://github.com/yassineaboukir/CVE-2020-5902",
         "https://github.com/zhzyker/CVE-2020-5902",
-        "https://github.com/zhzyker/exphub",
         "https://raw.githubusercontent.com/1N3/Sn1per/master/templates/active/CVE-2020-5902_-_F5_BIG-IP_Remote_Code_Execution_1.sh",
         "https://raw.githubusercontent.com/1N3/Sn1per/master/templates/active/CVE-2020-5902_-_F5_BIG-IP_Remote_Code_Execution_2.sh",
         "https://raw.githubusercontent.com/1N3/Sn1per/master/templates/active/CVE-2020-5902_-_F5_BIG-IP_XSS.sh",
@@ -47505,10 +47678,6 @@
     "CVE-2020-5903": [
         "https://github.com/ltvthang/CVE-2020-5903"
     ],
-    "CVE-2020-5977": [
-        "https://github.com/CuckooEXE/CVE-2020-5977"
-    ],
-    "CVE-2020-5990": [],
     "CVE-2020-6286": [
         "https://github.com/murataydemir/CVE-2020-6286"
     ],
@@ -47522,6 +47691,9 @@
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/sap-netweaver-improper-authentication-cve-2020-6287.yaml",
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-6287.yaml",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/auxiliary/admin/sap/cve_2020_6287_ws_add_user.rb"
+    ],
+    "CVE-2020-6308": [
+        "https://github.com/Mulvun/CVE-2020-6308-mass-exploiter"
     ],
     "CVE-2020-6418": [
         "https://github.com/ChoKyuWon/CVE-2020-6418",
@@ -47552,14 +47724,10 @@
     "CVE-2020-6888": [
         "https://github.com/section-c/CVE-2020-6888"
     ],
-    "CVE-2020-6923": [
-        "https://securitylab.github.com/advisories/GHSL-2020-074-hplip"
-    ],
     "CVE-2020-7048": [
         "https://raw.githubusercontent.com/1N3/Sn1per/master/templates/active/CVE-2020-7048_-_WP_Database_Reset_3.15_Unauthenticated_Database_Reset.sh",
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/wordpress-db-reset-cve-2020-7048.yaml"
     ],
-    "CVE-2020-7115": [],
     "CVE-2020-7209": [
         "https://github.com/cwinfosec/CVE-2020-7209",
         "https://raw.githubusercontent.com/1N3/Sn1per/master/templates/active/CVE-2020-7209_-_LinuxKI_Toolset_6.01_Remote_Command_Execution.sh",
@@ -47580,10 +47748,15 @@
         "https://github.com/r0lh/CVE-2020-7247",
         "https://github.com/superzerosec/cve-2020-7247",
         "https://gitlab.com/r0lh/CVE-2020-7247",
+        "https://gitlab.com/r0lh/CVE-2020-7247",
+        "https://gitlab.com/r0lh/CVE-2020-7247",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/unix/smtp/opensmtpd_mail_from_rce.rb"
     ],
     "CVE-2020-7283": [
         "https://github.com/RedyOpsResearchLabs/CVE-2020-7283-McAfee-Total-Protection-MTP-16.0.R26-EoP"
+    ],
+    "CVE-2020-7318": [
+        "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-7318.yaml"
     ],
     "CVE-2020-7350": [
         "https://gitlab.com/pastaoficial/cve-2020-7350",
@@ -47621,9 +47794,6 @@
         "https://raw.githubusercontent.com/1N3/Sn1per/master/templates/active/CVE-2020-7473_Citrix_ShareFile_StorageZones.disabled",
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/citrix-path-traversal-cve-2020-7473.yaml"
     ],
-    "CVE-2020-7647": [
-        "https://securitylab.github.com/advisories/GHSL-2020-073-jooby"
-    ],
     "CVE-2020-7661": [
         "https://github.com/niftylettuce/url-regex-safe"
     ],
@@ -47647,9 +47817,10 @@
         "https://www.exploit-db.com/raw/48090"
     ],
     "CVE-2020-7961": [
-        "https://github.com/Thisisfarhadzadeh/CVE-2020-7961-payloads",
         "https://github.com/mzer0one/CVE-2020-7961-POC",
         "https://github.com/shacojx/GLiferay",
+        "https://github.com/shacojx/POC-CVE-2020-7961-Token-iterate",
+        "https://github.com/thelostworldFree/CVE-2020-7961-payloads",
         "https://github.com/wcxxxxx/CVE-2020-7961",
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-7961.yaml",
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/http/liferay_java_unmarshalling.rb"
@@ -47696,6 +47867,7 @@
     "CVE-2020-8165": [
         "https://github.com/masahiro331/CVE-2020-8165",
         "https://github.com/umiterkol/CVE-2020-8165--Auto-Shell",
+        "https://gitlab.com/gonzoyumo/test-rails-cve-2020-8165",
         "https://gitlab.com/gonzoyumo/test-rails-cve-2020-8165"
     ],
     "CVE-2020-8191": [
@@ -47720,6 +47892,7 @@
     ],
     "CVE-2020-8209": [
         "https://github.com/B1anda0/CVE-2020-8209",
+        "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/citrix-xenmobile-lfi-cve-2020-8209.yaml",
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-8209.yaml"
     ],
     "CVE-2020-8218": [
@@ -47727,12 +47900,6 @@
     ],
     "CVE-2020-8241": [
         "https://github.com/withdk/pulse-secure-vpn-mitm-research"
-    ],
-    "CVE-2020-8255": [
-        "https://research.nccgroup.com/2020/10/26/technical-advisory-pulse-connect-secure-arbitrary-file-read-via-logon-message-cve-2020-8255/"
-    ],
-    "CVE-2020-8260": [
-        "https://research.nccgroup.com/2020/10/26/technical-advisory-pulse-connect-secure-rce-via-uncontrolled-gzip-extraction-cve-2020-8260/"
     ],
     "CVE-2020-8277": [
         "https://github.com/masahiro331/CVE-2020-8277"
@@ -47754,6 +47921,12 @@
     ],
     "CVE-2020-8518": [
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/multi/http/horde_csv_rce.rb"
+    ],
+    "CVE-2020-8554": [
+        "https://github.com/jrmurray000/CVE-2020-8554",
+        "https://github.com/rancher/externalip-webhook",
+        "https://gitlab.com/mike-ensor/mitigating-cve-2020-8554",
+        "https://gitlab.com/mike-ensor/mitigating-cve-2020-8554"
     ],
     "CVE-2020-8558": [
         "https://github.com/rhysemmas/martian-packets",
@@ -47830,8 +48003,7 @@
         "https://github.com/Prabhashaka/IT19147192-CVE-2020-8835",
         "https://github.com/SplendidSky/CVE-2020-8835",
         "https://github.com/ret2hell/CVE-2020-8835",
-        "https://github.com/snappyJack/Rick_write_exp_CVE-2020-8835",
-        "https://github.com/socketcall/CVE-2020-8835"
+        "https://github.com/snappyJack/Rick_write_exp_CVE-2020-8835"
     ],
     "CVE-2020-8840": [
         "https://github.com/0nise/CVE-2020-8840",
@@ -47847,6 +48019,9 @@
     "CVE-2020-8950": [
         "https://github.com/sailay1996/amd_eop_poc"
     ],
+    "CVE-2020-8956": [
+        "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/post/windows/gather/credentials/pulse_secure.rb"
+    ],
     "CVE-2020-8958": [
         "https://github.com/qurbat/gpon"
     ],
@@ -47854,9 +48029,6 @@
         "https://raw.githubusercontent.com/1N3/Sn1per/master/templates/active/CVE-2020-8982_-_Citrix_ShareFile_StorageZones_Unauthenticated_Arbitrary_File_Read.sh",
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/citrix-sharefile-path-traversal-cve-2020-8982.yaml",
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-8982.yaml"
-    ],
-    "CVE-2020-9006": [
-        "https://github.com/tz4678/cve-2020-9006"
     ],
     "CVE-2020-9008": [
         "https://github.com/kyletimmermans/blackboard-xss"
@@ -47898,6 +48070,7 @@
     ],
     "CVE-2020-9375": [
         "https://github.com/thewhiteh4t/cve-2020-9375",
+        "https://gitlab.com/takertao/cve-2020-9375",
         "https://gitlab.com/takertao/cve-2020-9375"
     ],
     "CVE-2020-9376": [
@@ -47906,7 +48079,6 @@
     "CVE-2020-9380": [
         "https://github.com/migueltarga/CVE-2020-9380"
     ],
-    "CVE-2020-9402": [],
     "CVE-2020-9442": [
         "https://github.com/hessandrew/CVE-2020-9442"
     ],
@@ -47938,21 +48110,13 @@
         "https://github.com/dwisiswant0/CVE-2020-9496",
         "https://raw.githubusercontent.com/jaeles-project/jaeles-signatures/master/cves/apache-ofbiz-xss-cve-2020-9496.yaml",
         "https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/master/cves/CVE-2020-9496.yaml",
-        "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/apache_ofbiz_deserialiation.rb",
-        "https://securitylab.github.com/advisories/GHSL-2020-068-apache_ofbiz",
-        "https://securitylab.github.com/advisories/GHSL-2020-069-apache_ofbiz"
-    ],
-    "CVE-2020-9497": [
-        "https://securitylab.github.com/advisories/GHSL-2020-058-apache-guacamole-server"
+        "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/http/apache_ofbiz_deserialiation.rb"
     ],
     "CVE-2020-9547": [
         "https://github.com/fairyming/CVE-2020-9547"
     ],
     "CVE-2020-9548": [
         "https://github.com/fairyming/CVE-2020-9548"
-    ],
-    "CVE-2020-9708": [
-        "https://securitylab.github.com/advisories/GHSL-2020-133-Adobe-Git-server"
     ],
     "CVE-2020-9757": [
         "https://raw.githubusercontent.com/1N3/Sn1per/master/templates/active/CVE-2020-9757_-_SEOmatic_3.3.0_Server-Side_Template_Injection.sh",
@@ -47973,9 +48137,6 @@
     ],
     "CVE-2020-9801": [
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/osx/browser/safari_in_operator_side_effect.rb"
-    ],
-    "CVE-2020-9802": [
-        "https://github.com/ray-cp/browser_pwn/tree/master/jsc_pwn/cve-2020-9802"
     ],
     "CVE-2020-9839": [
         "https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/osx/local/cfprefsd_race_condition.rb"
